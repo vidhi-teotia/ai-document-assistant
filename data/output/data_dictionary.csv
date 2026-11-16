@@ -1,0 +1,12 @@
+column_name,data_type,required,description,example
+claim_id,str,True,Unique claim number,
+policy_number,str,True,Insurance policy ID,
+patient_name,str,True,Name of the patient,
+hospital_name,str,True,Hospital name,
+diagnosis,str,True,Primary diagnosis,Previous LSCS with Placenta Praevia Type III
+admission_date,str,True,Date of admission,
+discharge_date,str,False,Date of discharge,
+claim_type,str,False,Cashless or reimbursement,
+total_claim_amount,float,True,Total amount claimed or billed,
+approved_amount,float,False,Approved or payable claim amount when available,
+claim_status,str,True,"Claim status such as approved, rejected, or pending",

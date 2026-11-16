@@ -1,0 +1,26 @@
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+OPERATION THEATRE RECORD / ANAESTHESIA NOTES
+CONFIDENTIAL MEDICAL RECORD
+CATH LAB RECORD — Rajesh Kumar Sharma
+  Date: 08-Jan-2025   Time Start: 16:45   Time End: 18:20
+  Surgeon: Dr Suresh Reddy
+  Scrub: Sr. Staff Nurse Usha
+Procedure: Emergency PTCA + DES Stenting
+  Access: Right radial artery — 6Fr sheath
+  Guide: EBU 3.5
+  Wire: BMW universal
+  Lesion: LAD mid — 95% stenosis
+  Pre-dilation: 2.5x15mm balloon @ 12 atm
+  Stent deployed: DES 3.0x28mm @ 14 atm
+  Post-dilation: 3.25mm NC @ 16 atm
+  Final result: <10% residual, TIMI 3
+  Contrast used: 180mL Iohexol
+  Fluoroscopy time: 12.4 min
+  Complications: None
+  Haemostasis: TR band applied radial
+Surgeon: Dr. Suresh Reddy
+Anaesthetist: Dr. Priya Sharma
+Date: 08-Jan-2025    OT No: OT-4
+OT VERIFIED
+08-Jan-2025

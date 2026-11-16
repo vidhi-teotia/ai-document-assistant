@@ -1,0 +1,26 @@
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL — DOCTOR'S CASE NOTES
+Patient: Mohammed Irfan Khan  |  IP: IP/2025/4772  |  Dept: General Surgery
+Case Notes — Mohammed Irfan Khan
+  IP No: IP/2025/4772   Dept: General Surgery
+  Admit: 05-Apr-2025   Discharge: 08-Apr-2025
+Admission:
+  severe right lower abdominal pain, nausea, vomiting sin
+  Diagnosis: Acute Appendicitis with Perforation
+  ICD-10: K35.8
+Treatment:
+  Procedure: Emergency Laparoscopic Appendicectomy
+  Patient tolerated procedure well
+  Post-op vitals stable
+Progress:
+  Day 2: Improving, tolerating orals
+  Day 3: Mobilising with support
+Discharge (08-Apr-2025):
+  Stable, vitals normal, wound healthy
+  Medications prescribed
+  Follow up 1 week
+Dr Girish Kamath
+MBBS, MS (General Surgery)
+Date: 08-Apr-2025
+ORIGINAL
+CASE NOTES

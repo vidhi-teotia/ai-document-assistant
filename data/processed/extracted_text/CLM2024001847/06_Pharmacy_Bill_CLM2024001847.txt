@@ -1,0 +1,77 @@
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024001847
+This document is computer generated and is valid without signature unless stated otherwise.
+PHARMACY BILL / DRUG DISPENSING RECORD
+Patient: Rajesh Kumar Sharma
+IP No: IP/2025/1847
+Ward: Cardiac ICU / Private
+Medicines and Consumables Dispensed
+Drug / Item
+Dosage
+Qty
+Rate (Rs.)
+Amount (Rs.)
+Inj. Heparin 5000 IU
+IV Bolus
+1
+450
+450
+Inj. Aspirin 300mg
+IV loading
+1
+85
+85
+Inj. Eptifibatide 2mg/mL
+IV infusion 24hr
+2
+3200
+6400
+Tab Clopidogrel 600mg
+Loading dose
+1
+12
+12
+Inj. Pantoprazole 40mg
+IV BD
+10
+45
+450
+Inj. Atorvastatin 40mg
+Oral
+5
+18
+90
+Tab Metoprolol 25mg
+Oral BD
+10
+4
+40
+IV Fluids NS 500mL
+IV drip
+8
+65
+520
+Disposables & Cannula
+—
+1 set
+850
+850
+Contrast Media (Iohexol)
+Cath Lab
+1 vial
+4800
+4800
+Miscellaneous pharmacy
+Various
+—
+—
+1500
+Total Pharmacy Amount:
+Rs. 15,197/-
+Note: All prescription drugs dispensed against doctor's written orders. Non-admissible items (toiletries, supplements) billed
+separately to patient.

@@ -1,0 +1,556 @@
+CLAIM ID: CLM2024004772
+
+================================================================================
+DOCUMENT: 01_Claim_Form_CLM2024004772
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 2  |  Ref: CLM2024004772
+This document is computer generated and is valid without signature unless stated otherwise.
+HEALTH INSURANCE CLAIM FORM — HDFC ERGO GENERAL
+INSURANCE CO. LTD.
+PART A — To be filled by the Insured / Patient
+Section 1: Policy Details
+Policy Number:
+HE/OPT/2021/00445521
+Name of Insured:
+Mohammed Irfan Khan
+Insurance Company:
+HDFC ERGO General Insurance Co. Ltd.
+TPA Name:
+Paramount Health Services TPA
+Sum Insured:
+Rs. 5,00,000
+Product / Plan:
+Optima Secure
+Section 2: Patient Details
+Patient Name:
+Mohammed Irfan Khan
+Date of Birth:
+22-Nov-1990
+Age:
+34 Years
+Gender:
+Male
+ABHA ID:
+55-8821-3314-9902
+Mobile Number:
++91 99001 67823
+Address:
+Flat 304, Brigade Towers, Malleswaram, Bangalore - 560003
+Relationship to Insured:
+Self
+Section 3: Hospitalisation Details
+Hospital Name:
+City Multi-Speciality Hospital
+Hospital Address:
+123, MG Road, Bangalore - 560001
+ROHINI ID:
+MH-KA-BLR-00284
+Date of Admission:
+05-Apr-2025
+Date of Discharge:
+08-Apr-2025
+Diagnosis:
+Acute Appendicitis with Perforation
+ICD-10 Code:
+K35.8
+Claim Type:
+Reimbursement
+Total Amount Claimed:
+Rs. 52,000/-
+Declaration by Insured:
+I hereby declare that the information furnished above is true and correct to the best of my knowledge and belief. I
+authorise the hospital and doctors to release all medical information to the Insurance Company / TPA for the purpose
+of processing this claim. I am aware that any misrepresentation or suppression of facts may render my claim liable for
+rejection.
+Signature of Insured: ________________
+Date: 10-Apr-2025
+Place: Bangalore
+
+
+ 2 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 2 of 2  |  Ref: CLM2024004772
+This document is computer generated and is valid without signature unless stated otherwise.
+PART B — To be filled by the Hospital / Treating Doctor
+Section 4: Medical Certificate
+Treating Doctor:
+Dr. Girish Kamath
+Qualification:
+MBBS, MS (General Surgery)
+MCI Reg. No.:
+KMC/41892/2016
+Final Diagnosis:
+Acute Appendicitis with Perforation
+ICD-10 Code:
+K35.8
+Procedure Performed:
+Emergency Laparoscopic Appendicectomy
+Whether surgically treated:
+Yes
+Date of Surgery:
+05-Apr-2025
+Pre-existing Disease:
+None
+Accident / Injury:
+No
+Hospital Declaration:
+Certified that the above patient was admitted and treated in our hospital. The information furnished is true and correct.
+All documents submitted are genuine.
+Signature of Treating Doctor Dr. Girish Kamath
+MBBS, MS (General Surgery)
+Signature with Hospital Seal City
+Multi-Speciality Hospital ROHINI:
+MH-KA-BLR-00284
+Date: 08-Apr-2025
+
+================================================================================
+DOCUMENT: 02_Discharge_Summary_CLM2024004772
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 2  |  Ref: CLM2024004772
+This document is computer generated and is valid without signature unless stated otherwise.
+DISCHARGE SUMMARY
+Patient Information
+Patient Name
+Mohammed Irfan Khan
+Age / Gender
+34 Yrs / Male
+Date of Birth
+22-Nov-1990
+ABHA ID
+55-8821-3314-9902
+Address
+Flat 304, Brigade Towers,
+Malleswaram, Bangalore - 560003
+Mobile
++91 99001 67823
+IP Number
+IP/2025/4772
+Ward / Bed
+Surgical Ward / Bed No. 269
+Admission & Discharge Details
+Date of Admission
+05-Apr-2025
+Time of Admission
+17:45
+Date of Discharge
+08-Apr-2025
+Time of Discharge
+13:00
+Length of Stay
+3 Days
+Admission Type
+Emergency
+Department
+General Surgery
+Treating Doctor
+Dr. Girish Kamath
+Qualification
+MBBS, MS (General Surgery)
+Reg. No.
+KMC/41892/2016
+Clinical Details
+Chief Complaint:
+Patient presented with severe right lower abdominal pain, nausea, vomiting since 12
+hours
+Final Diagnosis:
+Acute Appendicitis with Perforation (ICD-10: K35.8)
+Procedure Performed:
+Emergency Laparoscopic Appendicectomy
+Anaesthesia Given by:
+Dr. Deepak Pillai, MBBS, MD (Anaesthesia)
+History of Present Illness:
+Mohammed Irfan Khan, a 34-year-old male, presented to emergency with acute onset right iliac fossa pain, fever
+(102°F), nausea and vomiting. Examination revealed guarding and tenderness at McBurney's point. USG abdomen
+confirmed acute appendicitis with periappendicular fluid.
+Investigations at Admission:
+USG Abdomen: Enlarged appendix 11mm diameter with periappendicular fluid. CBC: WBC 16,800/cmm. CRP: 142
+mg/L. CECT Abdomen: Perforated appendicitis with free fluid.
+Treatment Given:
+Emergency laparoscopic appendicectomy performed under GA. Perforated appendix removed. Peritoneal lavage with
+3L normal saline. Drain placed in pelvis. Port sites closed.
+Condition at Discharge:
+Patient discharged in stable condition. Vitals stable. Wound healthy. Advised rest and follow-up.
+Discharge Medications:
+Inj Ceftriaxone 1g IV BD × 5 days (then oral), Tab Metronidazole 400mg TID × 5 days, Tab Diclofenac 50mg TID SOS,
+Tab Pantoprazole 40mg OD.
+Follow-up Instructions:
+Review after 7 days in OPD. Suture removal after 10 days. Avoid strenuous activity for 6 weeks. Contact emergency if
+fever, pain, or wound discharge. Next OPD: 15-Apr-2025.
+
+
+ 2 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 2 of 2  |  Ref: CLM2024004772
+This document is computer generated and is valid without signature unless stated otherwise.
+Dr. Girish Kamath
+Dr. Ramesh Bhat
+Dr. S. Krishnamurthy
+MBBS, MS (General Surgery)
+MBBS, MD (Medicine)
+MBBS, MD — Medical Superintendent
+Treating Consultant
+Registrar
+City Multi-Speciality Hospital
+Date: 08-Apr-2025
+Date: 08-Apr-2025
+NABH Accredited
+
+================================================================================
+DOCUMENT: 03_Hospital_Bill_CLM2024004772
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024004772
+This document is computer generated and is valid without signature unless stated otherwise.
+REJECTED
+R03
+FINAL HOSPITAL BILL / TAX INVOICE
+Bill No: BILL/2025/004772
+Bill Date: 08-Apr-2025
+Claim No: CLM2024004772
+Patient Details
+Name: Mohammed Irfan Khan
+Age/Gender: 34 Yrs / Male
+IP No: IP/2025/4772
+Dept: General Surgery
+Admit: 05-Apr-2025 Discharge: 08-Apr-2025
+Insurance Details
+Insurer: HDFC ERGO General Insurance Co. Ltd.
+Policy No: HE/OPT/2021/00445521
+TPA: Paramount Health Services TPA
+Preauth No: NOT REQUIRED
+Claim Type: Reimbursement
+Bill Breakup — Itemised Charges
+#
+Description
+Qty / Days
+Rate
+Amount
+1
+Room Charges
+3 Days
+Rs. 1,500/-
+Rs. 4,500/-
+2
+Surgeon / Consultant Fees
+1
+Rs. 15,000/-
+Rs. 15,000/-
+3
+Anaesthesia Charges
+1
+Rs. 4,500/-
+Rs. 4,500/-
+4
+Operation Theatre Charges
+1
+Rs. 12,000/-
+Rs. 12,000/-
+5
+Nursing Care Charges
+3 Days
+Rs. 1,200/-
+Rs. 3,600/-
+6
+Pharmacy / Medicines
+As per bills
+—
+Rs. 8,500/-
+7
+Lab Investigations
+As per reports
+—
+Rs. 4,500/-
+8
+Radiology Charges
+As per reports
+—
+Rs. 6,000/-
+Gross Bill Amount
+Rs. 52,000/-
+Less: Non-Admissible Expenses
+(Rs. 1,300/-)
+Net Admissible Amount
+Rs. 50,700/-
+Co-pay (Patient Liability)
+—
+Amount Payable by Insurer
+—
+This is a computer generated bill. For queries contact billing department.
+
+================================================================================
+DOCUMENT: 04_Lab_Report_CLM2024004772
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024004772
+This document is computer generated and is valid without signature unless stated otherwise.
+LABORATORY INVESTIGATION REPORT
+Patient: Mohammed Irfan Khan
+Age/Sex: 34Y / M
+IP No: IP/2025/4772
+Date: 05-Apr-2025
+Investigations — General Surgery Workup
+Test
+Result
+Reference Range
+Units
+Status
+Haemoglobin
+11.8
+12.0-16.0
+g/dL
+LOW
+Total WBC Count
+12,400
+4,000-11,000
+/cmm
+HIGH
+Platelet Count
+2,45,000
+1,50,000-4,00,000
+/cmm
+Normal
+Random Blood Sugar
+168
+70-140
+mg/dL
+HIGH
+Serum Creatinine
+1.2
+0.6-1.2
+mg/dL
+Normal
+Blood Urea Nitrogen
+22
+8-25
+mg/dL
+Normal
+Serum Sodium
+138
+136-145
+mEq/L
+Normal
+Serum Potassium
+4.2
+3.5-5.0
+mEq/L
+Normal
+Total Bilirubin
+0.8
+0.2-1.2
+mg/dL
+Normal
+SGOT (AST)
+42
+10-40
+U/L
+HIGH
+SGPT (ALT)
+38
+7-40
+U/L
+Normal
+HbA1c
+7.8
+< 6.5
+%
+HIGH
+Interpretation:
+Leucocytosis consistent with perforation peritonitis. Elevated CRP. Mildly elevated liver enzymes — likely due to
+sepsis.
+Dr. Mohan Das MBBS, MD (Pathology) Reg:
+KMC/33201/2012 Laboratory Director
+Report Date: 05-Apr-2025 City Diagnostics Lab
+City Multi-Speciality Hospital NABL Accredited
+
+================================================================================
+DOCUMENT: 05_Doctors_Notes_CLM2024004772
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL — DOCTOR'S CASE NOTES
+Patient: Mohammed Irfan Khan  |  IP: IP/2025/4772  |  Dept: General Surgery
+Case Notes — Mohammed Irfan Khan
+  IP No: IP/2025/4772   Dept: General Surgery
+  Admit: 05-Apr-2025   Discharge: 08-Apr-2025
+Admission:
+  severe right lower abdominal pain, nausea, vomiting sin
+  Diagnosis: Acute Appendicitis with Perforation
+  ICD-10: K35.8
+Treatment:
+  Procedure: Emergency Laparoscopic Appendicectomy
+  Patient tolerated procedure well
+  Post-op vitals stable
+Progress:
+  Day 2: Improving, tolerating orals
+  Day 3: Mobilising with support
+Discharge (08-Apr-2025):
+  Stable, vitals normal, wound healthy
+  Medications prescribed
+  Follow up 1 week
+Dr Girish Kamath
+MBBS, MS (General Surgery)
+Date: 08-Apr-2025
+ORIGINAL
+CASE NOTES
+
+================================================================================
+DOCUMENT: 06_Pharmacy_Bill_CLM2024004772
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024004772
+This document is computer generated and is valid without signature unless stated otherwise.
+PHARMACY BILL / DRUG DISPENSING RECORD
+Patient: Mohammed Irfan Khan
+IP No: IP/2025/4772
+Ward: Surgical Ward
+Medicines and Consumables Dispensed
+Drug / Item
+Dosage
+Qty
+Rate (Rs.)
+Amount (Rs.)
+Inj. Ceftriaxone 1g
+IV BD
+6
+85
+510
+Inj. Metronidazole 500mg
+IV TID
+9
+45
+405
+Inj. Pantoprazole 40mg
+IV OD
+5
+45
+225
+Inj. Tramadol 100mg
+IV prn
+4
+42
+168
+IV Fluids NS/RL
+IV drip
+8
+65
+520
+Wound dressings
+Daily
+4 sets
+350
+1400
+Disposables
+—
+1 set
+650
+650
+Tab medications (discharge)
+Various
+—
+—
+1200
+Miscellaneous
+Various
+—
+—
+600
+Total Pharmacy Amount:
+Rs. 5,678/-
+Note: All prescription drugs dispensed against doctor's written orders. Non-admissible items (toiletries, supplements) billed
+separately to patient.
+
+================================================================================
+DOCUMENT: 07_Preauth_Letter_CLM2024004772
+================================================================================
+1 ---
+PARAMOUNT HEALTH SERVICES TPA
+IRDAI Registration No. TPA/2001/0015  |  Claims Processing Division
+4th Floor, Prestige Towers, MG Road, Bangalore - 560001  |  claims@tpa.in  |  1800-123-4567
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024004772
+This document is computer generated and is valid without signature unless stated otherwise.
+NOT APPLICABLE — EMERGENCY ADMISSION
+Pre-authorisation is not required for emergency admissions. Post-hospitalisation claim documents to be submitted
+within 7 days of discharge.
+
+================================================================================
+DOCUMENT: 08_TPA_Response_CLM2024004772
+================================================================================
+1 ---
+PARAMOUNT HEALTH SERVICES TPA
+IRDAI Registration No. TPA/2001/0015  |  Claims Processing Division
+4th Floor, Prestige Towers, MG Road, Bangalore - 560001  |  claims@tpa.in  |  1800-123-4567
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024004772
+This document is computer generated and is valid without signature unless stated otherwise.
+REJECTED
+R03
+CLAIM REJECTION INTIMATION
+Ref No: REJECT/CLM2024004772/10Apr2025
+Date: 10-Apr-2025
+Dear Mohammed Irfan Khan, This is to inform you that your health insurance claim bearing Claim No.
+CLM2024004772 has been REJECTED for the following reason(s):
+Denial Code: R03
+Policy was not active at the time of admission. Policy expiry date: 31-Mar-2025. Date of
+admission: 05-Apr-2025. Claim is not payable as the policy had lapsed prior to the date of
+hospitalisation.
+Grievance Redressal: If you are not satisfied with this decision, you may appeal within 30 days to our Grievance Officer. You may
+also approach IRDAI for complaint redressal at igms.irda.gov.in
+
+================================================================================
+DOCUMENT: 09_OT_Notes_CLM2024004772
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+OPERATION THEATRE RECORD / ANAESTHESIA NOTES
+CONFIDENTIAL MEDICAL RECORD
+OT RECORD — Mohammed Irfan Khan
+  Date: 05-Apr-2025   Surgeon: Dr Girish Kamath
+  Procedure: Emergency Laparoscopic Appendicectomy
+  Anaesthesia: General / Spinal
+  Patient prepped and draped in sterile fashion
+  Procedure performed as planned
+  Intra-op findings documented
+  Haemostasis achieved
+  Wound closed in layers
+  EBL: Minimal
+  Patient shifted to recovery in stable condition
+Surgeon: Dr. Girish Kamath
+Anaesthetist: Dr. Deepak Pillai
+Date: 05-Apr-2025    OT No: OT-4
+OT VERIFIED
+05-Apr-2025

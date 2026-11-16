@@ -1,0 +1,28 @@
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+OPERATION THEATRE RECORD / ANAESTHESIA NOTES
+CONFIDENTIAL MEDICAL RECORD
+OT RECORD — Meena Subramaniam
+  Date: 22-Feb-2025   OT: OT-2
+  Surgeon: Dr Anil Kumar Hegde
+  Anaes: Dr. Venkat Rao
+Procedure: Right Total Knee Replacement
+  Anaesthesia: Spinal — 0.5% Bupivacaine 3mL
+  Position: Supine, knee flexed 90deg
+  Tourniquet: 280 mmHg applied
+  Incision: Midline 15cm
+  Approach: Medial parapatellar
+  Bone cuts: Distal femur 9mm, prox tibia 8mm
+  Implant: Triathlon PS size Femur C, Tibia 3
+  Cement: Palacos antibiotic cement
+  Patella: Resurfaced
+  Drain: JP drain placed
+  Tourniquet time: 48 minutes
+  EBL: approx 350mL
+  Closure: Vicryl 1-0, skin staples
+  Dressing: Crepe bandage
+Surgeon: Dr. Anil Kumar Hegde
+Anaesthetist: Dr. Venkat Rao
+Date: 22-Feb-2025    OT No: OT-4
+OT VERIFIED
+22-Feb-2025

@@ -1,0 +1,20 @@
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+OPERATION THEATRE RECORD / ANAESTHESIA NOTES
+CONFIDENTIAL MEDICAL RECORD
+OT RECORD — Divya Krishnamurthy
+  Date: 10-Mar-2025   Surgeon: Dr Kavitha Reddy
+  Procedure: Lower Segment Caesarean Section (LSCS) with Bilateral T
+  Anaesthesia: General / Spinal
+  Patient prepped and draped in sterile fashion
+  Procedure performed as planned
+  Intra-op findings documented
+  Haemostasis achieved
+  Wound closed in layers
+  EBL: Minimal
+  Patient shifted to recovery in stable condition
+Surgeon: Dr. Kavitha Reddy
+Anaesthetist: Dr. Nalini Shetty
+Date: 10-Mar-2025    OT No: OT-4
+OT VERIFIED
+10-Mar-2025

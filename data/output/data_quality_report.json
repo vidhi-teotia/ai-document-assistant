@@ -1,0 +1,77 @@
+{
+  "total_records": 5,
+  "valid_records": 0,
+  "invalid_records": 5,
+  "issues": [
+    {
+      "row_number": 1,
+      "claim_id": null,
+      "issues": [
+        "Missing required field: claim_id",
+        "Missing required field: policy_number",
+        "Missing required field: patient_name",
+        "Missing required field: hospital_name",
+        "Missing required field: diagnosis",
+        "Missing required field: admission_date",
+        "Missing required field: total_claim_amount",
+        "Missing required field: claim_status"
+      ]
+    },
+    {
+      "row_number": 2,
+      "claim_id": null,
+      "issues": [
+        "Missing required field: claim_id",
+        "Missing required field: policy_number",
+        "Missing required field: patient_name",
+        "Missing required field: hospital_name",
+        "Missing required field: diagnosis",
+        "Missing required field: admission_date",
+        "Missing required field: total_claim_amount",
+        "Missing required field: claim_status"
+      ]
+    },
+    {
+      "row_number": 3,
+      "claim_id": null,
+      "issues": [
+        "Missing required field: claim_id",
+        "Missing required field: policy_number",
+        "Missing required field: patient_name",
+        "Missing required field: hospital_name",
+        "Missing required field: admission_date",
+        "Missing required field: total_claim_amount",
+        "Missing required field: claim_status"
+      ]
+    },
+    {
+      "row_number": 4,
+      "claim_id": null,
+      "issues": [
+        "Missing required field: claim_id",
+        "Missing required field: policy_number",
+        "Missing required field: patient_name",
+        "Missing required field: hospital_name",
+        "Missing required field: diagnosis",
+        "Missing required field: admission_date",
+        "Missing required field: total_claim_amount",
+        "Missing required field: claim_status"
+      ]
+    },
+    {
+      "row_number": 5,
+      "claim_id": null,
+      "issues": [
+        "Missing required field: claim_id",
+        "Missing required field: policy_number",
+        "Missing required field: patient_name",
+        "Missing required field: hospital_name",
+        "Missing required field: diagnosis",
+        "Missing required field: admission_date",
+        "Missing required field: total_claim_amount",
+        "Missing required field: claim_status"
+      ]
+    }
+  ],
+  "is_ml_ready": false
+}

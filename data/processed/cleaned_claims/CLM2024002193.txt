@@ -1,0 +1,587 @@
+CLAIM ID: CLM2024002193
+
+================================================================================
+DOCUMENT: 01_Claim_Form_CLM2024002193
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001 | Tel: 080-4455-6677 | www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284 | NABH Accredited | ISO 9001:2015 Certified
+24x7 Emergency: 080-4455-9999 | info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 2 | Ref: CLM2024002193
+This document is computer generated and is valid without signature unless stated otherwise.
+HEALTH INSURANCE CLAIM FORM - CARE HEALTH INSURANCE
+LTD.
+PART A - To be filled by the Insured / Patient
+Section 1: Policy Details
+Policy Number:
+CRH/2023/00128734
+Name of Insured:
+Meena Subramaniam
+Insurance Company:
+Care Health Insurance Ltd.
+TPA Name:
+Vidal Health TPA Pvt. Ltd.
+Sum Insured:
+Rs. 3,00,000
+Product / Plan:
+Care Advantage
+Section 2: Patient Details
+Patient Name:
+Meena Subramaniam
+Date of Birth:
+05-Sep-1962
+Age:
+62 Years
+Gender:
+Female
+ABHA ID:
+71-4421-8832-6614
+Mobile Number:
++91 97423 88901
+Address:
+18, Jayanagar 4th Block, Bangalore - 560011
+Relationship to Insured:
+Self
+Section 3: Hospitalisation Details
+Hospital Name:
+City Multi-Speciality Hospital
+Hospital Address:
+123, MG Road, Bangalore - 560001
+ROHINI ID:
+MH-KA-BLR-00284
+Date of Admission:
+22-Feb-2025
+Date of Discharge:
+28-Feb-2025
+Diagnosis:
+Severe Osteoarthritis, Right Knee (Grade IV)
+ICD-10 Code:
+M17.1
+Claim Type:
+Reimbursement
+Total Amount Claimed:
+Rs. 145,000/-
+Declaration by Insured:
+I hereby declare that the information furnished above is true and correct to the best of my knowledge and belief. I
+authorise the hospital and doctors to release all medical information to the Insurance Company / TPA for the purpose
+of processing this claim. I am aware that any misrepresentation or suppression of facts may render my claim liable for
+rejection.
+Signature of Insured: ________________
+Date: 02-Mar-2025
+Place: Bangalore
+
+2 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001 | Tel: 080-4455-6677 | www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284 | NABH Accredited | ISO 9001:2015 Certified
+24x7 Emergency: 080-4455-9999 | info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 2 of 2 | Ref: CLM2024002193
+This document is computer generated and is valid without signature unless stated otherwise.
+PART B - To be filled by the Hospital / Treating Doctor
+Section 4: Medical Certificate
+Treating Doctor:
+Dr. Anil Kumar Hegde
+Qualification:
+MBBS, MS (Ortho), DNB
+MCI Reg. No.:
+KMC/38901/2014
+Final Diagnosis:
+Severe Osteoarthritis, Right Knee (Grade IV)
+ICD-10 Code:
+M17.1
+Procedure Performed:
+Total Knee Replacement (TKR) - Right
+Whether surgically treated:
+Yes
+Date of Surgery:
+22-Feb-2025
+Pre-existing Disease:
+Hypertension - controlled on medication
+Accident / Injury:
+No
+Hospital Declaration:
+Certified that the above patient was admitted and treated in our hospital. The information furnished is true and correct.
+All documents submitted are genuine.
+Signature of Treating Doctor Dr. Anil Kumar
+Hegde MBBS, MS (Ortho), DNB
+Signature with Hospital Seal City
+Multi-Speciality Hospital ROHINI:
+MH-KA-BLR-00284
+Date: 28-Feb-2025
+
+================================================================================
+DOCUMENT: 02_Discharge_Summary_CLM2024002193
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001 | Tel: 080-4455-6677 | www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284 | NABH Accredited | ISO 9001:2015 Certified
+24x7 Emergency: 080-4455-9999 | info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 2 | Ref: CLM2024002193
+This document is computer generated and is valid without signature unless stated otherwise.
+DISCHARGE SUMMARY
+Patient Information
+Patient Name
+Meena Subramaniam
+Age / Gender
+62 Yrs / Female
+Date of Birth
+05-Sep-1962
+ABHA ID
+71-4421-8832-6614
+Address
+18, Jayanagar 4th Block, Bangalore
+- 560011
+Mobile
++91 97423 88901
+IP Number
+IP/2025/2193
+Ward / Bed
+Orthopaedics Ward / Bed No. 269
+Admission & Discharge Details
+Date of Admission
+22-Feb-2025
+Time of Admission
+17:45
+Date of Discharge
+28-Feb-2025
+Time of Discharge
+13:00
+Length of Stay
+6 Days
+Admission Type
+Planned
+Department
+Orthopaedics
+Treating Doctor
+Dr. Anil Kumar Hegde
+Qualification
+MBBS, MS (Ortho), DNB
+Reg. No.
+KMC/38901/2014
+Clinical Details
+Chief Complaint:
+Patient presented with severe right knee pain with difficulty in walking and climbing
+stairs since 2 years, worsening over last 3 months
+Final Diagnosis:
+Severe Osteoarthritis, Right Knee (Grade IV) (ICD-10: M17.1)
+Procedure Performed:
+Total Knee Replacement (TKR) - Right
+Implant Used:
+Cemented Total Knee Implant System (Triathlon, Stryker)
+Anaesthesia Given by:
+Dr. Venkat Rao, MBBS, DA, MD (Anaesthesia)
+History of Present Illness:
+Meena Subramaniam, a 62-year-old female with longstanding bilateral knee pain, presented for planned Total Knee
+Replacement. X-ray showed severe joint space narrowing with osteophyte formation, Grade IV osteoarthritis.
+Conservative management had failed. Pre-operative assessment completed.
+Investigations at Admission:
+X-Ray Right Knee AP/Lateral: Grade IV OA, complete joint space loss. MRI Knee: Meniscal degeneration. CBC,
+coagulation profile, ECHO pre-op: within normal limits.
+Treatment Given:
+Under spinal anaesthesia, right TKR performed using Triathlon cemented implant system (Stryker). Haemostasis
+achieved. Drain placed. Post-op physiotherapy started on Day 1.
+Condition at Discharge:
+Patient discharged in stable condition. Vitals stable. Wound healthy. Advised rest and follow-up.
+Discharge Medications:
+Tab Cefuroxime 500mg BD x 7 days, Tab Tramadol 50mg SOS, Tab Pantoprazole 40mg OD, Cap Calcium+D3 BD,
+Inj Enoxaparin 40mg SC OD x 10 days.
+Follow-up Instructions:
+
+2 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001 | Tel: 080-4455-6677 | www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284 | NABH Accredited | ISO 9001:2015 Certified
+24x7 Emergency: 080-4455-9999 | info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 2 of 2 | Ref: CLM2024002193
+This document is computer generated and is valid without signature unless stated otherwise.
+Review after 7 days in OPD. Suture removal after 10 days. Avoid strenuous activity for 6 weeks. Contact emergency if
+fever, pain, or wound discharge. Next OPD: 07-Mar-2025.
+Dr. Anil Kumar Hegde
+Dr. Ramesh Bhat
+Dr. S. Krishnamurthy
+MBBS, MS (Ortho), DNB
+MBBS, MD (Medicine)
+MBBS, MD - Medical Superintendent
+Treating Consultant
+Registrar
+City Multi-Speciality Hospital
+Date: 28-Feb-2025
+Date: 28-Feb-2025
+NABH Accredited
+
+================================================================================
+DOCUMENT: 03_Hospital_Bill_CLM2024002193
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001 | Tel: 080-4455-6677 | www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284 | NABH Accredited | ISO 9001:2015 Certified
+24x7 Emergency: 080-4455-9999 | info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1 | Ref: CLM2024002193
+This document is computer generated and is valid without signature unless stated otherwise.
+REJECTED
+R02
+FINAL HOSPITAL BILL / TAX INVOICE
+Bill No: BILL/2025/002193
+Bill Date: 28-Feb-2025
+Claim No: CLM2024002193
+Patient Details
+Name: Meena Subramaniam
+Age/Gender: 62 Yrs / Female
+IP No: IP/2025/2193
+Dept: Orthopaedics
+Admit: 22-Feb-2025 Discharge: 28-Feb-2025
+Insurance Details
+Insurer: Care Health Insurance Ltd.
+Policy No: CRH/2023/00128734
+TPA: Vidal Health TPA Pvt. Ltd.
+Preauth No: REJECTED
+Claim Type: Reimbursement
+Bill Breakup - Itemised Charges
+#
+Description
+Qty / Days
+Rate
+Amount
+1
+Room Charges
+6 Days
+Rs. 2,000/-
+Rs. 12,000/-
+2
+Surgeon / Consultant Fees
+1
+Rs. 40,000/-
+Rs. 40,000/-
+3
+Anaesthesia Charges
+1
+Rs. 12,000/-
+Rs. 12,000/-
+4
+Operation Theatre Charges
+1
+Rs. 18,000/-
+Rs. 18,000/-
+5
+Nursing Care Charges
+6 Days
+Rs. 1,200/-
+Rs. 7,200/-
+6
+Pharmacy / Medicines
+As per bills
+-
+Rs. 18,000/-
+7
+Lab Investigations
+As per reports
+-
+Rs. 6,000/-
+8
+Radiology Charges
+As per reports
+-
+Rs. 9,000/-
+9
+Implant: Cemented Total Knee Implant System
+(Triathlon, Stryker)
+1 Unit
+Rs. 95,000/-
+Rs. 95,000/-
+Gross Bill Amount
+Rs. 145,000/-
+Less: Non-Admissible Expenses
+(Rs. 3,625/-)
+Net Admissible Amount
+Rs. 141,375/-
+Co-pay (Patient Liability)
+-
+Amount Payable by Insurer
+-
+This is a computer generated bill. For queries contact billing department.
+
+================================================================================
+DOCUMENT: 04_Lab_Report_CLM2024002193
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001 | Tel: 080-4455-6677 | www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284 | NABH Accredited | ISO 9001:2015 Certified
+24x7 Emergency: 080-4455-9999 | info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1 | Ref: CLM2024002193
+This document is computer generated and is valid without signature unless stated otherwise.
+LABORATORY INVESTIGATION REPORT
+Patient: Meena Subramaniam
+Age/Sex: 62Y / F
+IP No: IP/2025/2193
+Date: 22-Feb-2025
+Investigations - Orthopaedics Workup
+Test
+Result
+Reference Range
+Units
+Status
+Haemoglobin
+11.8
+12.0-16.0
+g/dL
+LOW
+Total WBC Count
+12,400
+4,000-11,000
+/cmm
+HIGH
+Platelet Count
+2,45,000
+1,50,000-4,00,000
+/cmm
+Normal
+Random Blood Sugar
+168
+70-140
+mg/dL
+HIGH
+Serum Creatinine
+1.2
+0.6-1.2
+mg/dL
+Normal
+Blood Urea Nitrogen
+22
+8-25
+mg/dL
+Normal
+Serum Sodium
+138
+136-145
+mEq/L
+Normal
+Serum Potassium
+4.2
+3.5-5.0
+mEq/L
+Normal
+Total Bilirubin
+0.8
+0.2-1.2
+mg/dL
+Normal
+SGOT (AST)
+42
+10-40
+U/L
+HIGH
+SGPT (ALT)
+38
+7-40
+U/L
+Normal
+HbA1c
+7.8
+< 6.5
+%
+HIGH
+Interpretation:
+Pre-operative investigations within acceptable limits for surgical clearance. Mild anaemia noted - iron
+supplementation advised post-operatively.
+Dr. Mohan Das MBBS, MD (Pathology) Reg:
+KMC/33201/2012 Laboratory Director
+Report Date: 22-Feb-2025 City Diagnostics Lab
+City Multi-Speciality Hospital NABL Accredited
+
+================================================================================
+DOCUMENT: 05_Doctors_Notes_CLM2024002193
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL - DOCTOR'S CASE NOTES
+Patient: Meena Subramaniam | IP: IP/2025/2193 | Dept: Orthopaedics
+Case Notes - Meena Subramaniam
+Date: 22-Feb-2025 Ward: Ortho IP: IP/2025/2193
+Pre-op Assessment:
+Pt 62F, planned R-TKR
+Diagnosis: Severe OA Right Knee Grade IV
+H/o bilateral knee pain > 2 years
+Failed: Physiotherapy, Steroid injections x3
+X-ray: Complete joint space loss, osteophytes
+Pre-op bloods: Acceptable for surgery
+Anaesthesia: Spinal planned
+Consent taken - patient understanding good
+Intra-op Note:
+Position: Supine, tourniquet applied
+Approach: Midline incision 15cm
+Triathlon cemented implant (Stryker) used
+EBL: approx 350mL, 1 unit PRBC transfused
+Drain placed - Jackson Pratt
+Closure: Vicryl + staples
+Post-op Days 1-3:
+Pain: Controlled on Tramadol + Celecoxib
+Physio: CPM started Day 1
+Drain output: 180mL, removed Day 2
+Knee bend: 0-60 degrees at discharge
+Discharge (28-Feb-2025):
+Ambulating with walker, pain acceptable
+Staples to be removed Day 12
+DVT prophylaxis: Enoxaparin x 10 days
+Dr Anil Kumar Hegde
+MBBS, MS (Ortho), DNB
+Date: 28-Feb-2025
+ORIGINAL
+CASE NOTES
+
+================================================================================
+DOCUMENT: 06_Pharmacy_Bill_CLM2024002193
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001 | Tel: 080-4455-6677 | www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284 | NABH Accredited | ISO 9001:2015 Certified
+24x7 Emergency: 080-4455-9999 | info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1 | Ref: CLM2024002193
+This document is computer generated and is valid without signature unless stated otherwise.
+PHARMACY BILL / DRUG DISPENSING RECORD
+Patient: Meena Subramaniam
+IP No: IP/2025/2193
+Ward: Orthopaedics Ward
+Medicines and Consumables Dispensed
+Drug / Item
+Dosage
+Qty
+Rate (Rs.)
+Amount (Rs.)
+Inj. Cefazolin 1g
+IV pre-op
+3
+85
+255
+Inj. Tramadol 100mg
+IV prn
+5
+42
+210
+Tab Enoxaparin 40mg SC
+OD x 10 days
+10
+280
+2800
+Inj. Tranexamic Acid 1g
+IV intra-op
+2
+125
+250
+Tab Celecoxib 200mg
+BD x 5 days
+10
+22
+220
+IV Fluids RL 500mL
+IV
+10
+65
+650
+Spinal Anaesthesia kit
+-
+1
+1800
+1800
+Wound dressings
+Daily x 6 days
+6 sets
+450
+2700
+Knee Immobiliser
+1
+1
+1200
+1200
+Miscellaneous
+Various
+-
+-
+800
+Total Pharmacy Amount:
+Rs. 10,885/-
+Note: All prescription drugs dispensed against doctor's written orders. Non-admissible items (toiletries, supplements) billed
+separately to patient.
+
+================================================================================
+DOCUMENT: 07_Preauth_Letter_CLM2024002193
+================================================================================
+1 ---
+VIDAL HEALTH TPA PVT. LTD.
+IRDAI Registration No. TPA/2001/0015 | Claims Processing Division
+4th Floor, Prestige Towers, MG Road, Bangalore - 560001 | claims@tpa.in | 1800-123-4567
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1 | Ref: CLM2024002193
+This document is computer generated and is valid without signature unless stated otherwise.
+REJECTED
+No Preauth
+PRE-AUTHORISATION - REJECTION INTIMATION
+This is to inform that the pre-authorisation request for the above patient has been REJECTED for the following reason:
+Pre-authorisation request not submitted prior to planned admission. As per policy terms and conditions,
+pre-authorisation is mandatory for all planned surgical procedures. Claim, if filed, will be processed as
+reimbursement and may be subject to rejection under clause 5.3 of the policy document.
+
+================================================================================
+DOCUMENT: 08_TPA_Response_CLM2024002193
+================================================================================
+1 ---
+VIDAL HEALTH TPA PVT. LTD.
+IRDAI Registration No. TPA/2001/0015 | Claims Processing Division
+4th Floor, Prestige Towers, MG Road, Bangalore - 560001 | claims@tpa.in | 1800-123-4567
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1 | Ref: CLM2024002193
+This document is computer generated and is valid without signature unless stated otherwise.
+REJECTED
+R02
+CLAIM REJECTION INTIMATION
+Ref No: REJECT/CLM2024002193/02Mar2025
+Date: 02-Mar-2025
+Dear Meena Subramaniam, This is to inform you that your health insurance claim bearing Claim No. CLM2024002193
+has been REJECTED for the following reason(s):
+Denial Code: R02
+No prior authorisation obtained for Total Knee Replacement surgery. Pre-authorisation is
+mandatory for all planned surgical procedures involving implants under this policy.
+Grievance Redressal: If you are not satisfied with this decision, you may appeal within 30 days to our Grievance Officer. You may
+also approach IRDAI for complaint redressal at igms.irda.gov.in
+
+================================================================================
+DOCUMENT: 09_OT_Notes_CLM2024002193
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+OPERATION THEATRE RECORD / ANAESTHESIA NOTES
+CONFIDENTIAL MEDICAL RECORD
+OT RECORD - Meena Subramaniam
+Date: 22-Feb-2025 OT: OT-2
+Surgeon: Dr Anil Kumar Hegde
+Anaes: Dr. Venkat Rao
+Procedure: Right Total Knee Replacement
+Anaesthesia: Spinal - 0.5% Bupivacaine 3mL
+Position: Supine, knee flexed 90deg
+Tourniquet: 280 mmHg applied
+Incision: Midline 15cm
+Approach: Medial parapatellar
+Bone cuts: Distal femur 9mm, prox tibia 8mm
+Implant: Triathlon PS size Femur C, Tibia 3
+Cement: Palacos antibiotic cement
+Patella: Resurfaced
+Drain: JP drain placed
+Tourniquet time: 48 minutes
+EBL: approx 350mL
+Closure: Vicryl 1-0, skin staples
+Dressing: Crepe bandage
+Surgeon: Dr. Anil Kumar Hegde
+Anaesthetist: Dr. Venkat Rao
+Date: 22-Feb-2025 OT No: OT-4
+OT VERIFIED
+22-Feb-2025

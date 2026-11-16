@@ -1,0 +1,10 @@
+{
+  "chunk_count": 20,
+  "min_chunk_length": 376,
+  "max_chunk_length": 1000,
+  "avg_chunk_length": 968.45,
+  "missing_metadata_count": 0,
+  "empty_text_count": 0,
+  "is_valid": true,
+  "chunk_file": "CLM2024002193_chunks.json"
+}

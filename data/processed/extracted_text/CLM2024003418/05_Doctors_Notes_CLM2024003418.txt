@@ -1,0 +1,26 @@
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL — DOCTOR'S CASE NOTES
+Patient: Divya Krishnamurthy  |  IP: IP/2025/3418  |  Dept: Gynaecology
+Case Notes — Divya Krishnamurthy
+  IP No: IP/2025/3418   Dept: Gynaecology
+  Admit: 10-Mar-2025   Discharge: 14-Mar-2025
+Admission:
+  labour pains and previous LSCS with placenta praevia co
+  Diagnosis: Previous LSCS with Placenta Praevia Type III
+  ICD-10: O34.2
+Treatment:
+  Procedure: Lower Segment Caesarean Section (LSCS) with Bilateral T
+  Patient tolerated procedure well
+  Post-op vitals stable
+Progress:
+  Day 2: Improving, tolerating orals
+  Day 3: Mobilising with support
+Discharge (14-Mar-2025):
+  Stable, vitals normal, wound healthy
+  Medications prescribed
+  Follow up 1 week
+Dr Kavitha Reddy
+MBBS, MD, DGO (Obs & Gynae)
+Date: 14-Mar-2025
+ORIGINAL
+CASE NOTES

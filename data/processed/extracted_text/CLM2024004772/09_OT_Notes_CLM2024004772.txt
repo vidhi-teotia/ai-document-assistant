@@ -1,0 +1,20 @@
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+OPERATION THEATRE RECORD / ANAESTHESIA NOTES
+CONFIDENTIAL MEDICAL RECORD
+OT RECORD — Mohammed Irfan Khan
+  Date: 05-Apr-2025   Surgeon: Dr Girish Kamath
+  Procedure: Emergency Laparoscopic Appendicectomy
+  Anaesthesia: General / Spinal
+  Patient prepped and draped in sterile fashion
+  Procedure performed as planned
+  Intra-op findings documented
+  Haemostasis achieved
+  Wound closed in layers
+  EBL: Minimal
+  Patient shifted to recovery in stable condition
+Surgeon: Dr. Girish Kamath
+Anaesthetist: Dr. Deepak Pillai
+Date: 05-Apr-2025    OT No: OT-4
+OT VERIFIED
+05-Apr-2025

@@ -1,0 +1,67 @@
+[
+  {
+    "claim_id": "CLM2024001847",
+    "policy_number": null,
+    "patient_name": "Rajesh Kumar Sharma",
+    "hospital_name": null,
+    "diagnosis": null,
+    "admission_date": null,
+    "discharge_date": null,
+    "claim_type": null,
+    "total_claim_amount": null,
+    "approved_amount": null,
+    "claim_status": null
+  },
+  {
+    "claim_id": "CLM2024002193",
+    "policy_number": null,
+    "patient_name": null,
+    "hospital_name": null,
+    "diagnosis": null,
+    "admission_date": null,
+    "discharge_date": null,
+    "claim_type": null,
+    "total_claim_amount": null,
+    "approved_amount": null,
+    "claim_status": null
+  },
+  {
+    "claim_id": "CLM2024003418",
+    "policy_number": null,
+    "patient_name": "Divya Krishnamurthy",
+    "hospital_name": null,
+    "diagnosis": "Previous LSCS with Placenta Praevia Type III",
+    "admission_date": null,
+    "discharge_date": null,
+    "claim_type": null,
+    "total_claim_amount": null,
+    "approved_amount": null,
+    "claim_status": null
+  },
+  {
+    "claim_id": "CLM2024004772",
+    "policy_number": null,
+    "patient_name": null,
+    "hospital_name": null,
+    "diagnosis": null,
+    "admission_date": null,
+    "discharge_date": null,
+    "claim_type": null,
+    "total_claim_amount": null,
+    "approved_amount": null,
+    "claim_status": null
+  },
+  {
+    "claim_id": "CLM2024005341",
+    "policy_number": null,
+    "patient_name": "Lakshmi Venkataraman",
+    "hospital_name": null,
+    "diagnosis": null,
+    "admission_date": null,
+    "discharge_date": null,
+    "claim_type": null,
+    "total_claim_amount": null,
+    "approved_amount": null,
+    "claim_status": null
+  }
+]

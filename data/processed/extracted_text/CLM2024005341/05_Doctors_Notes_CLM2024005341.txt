@@ -1,0 +1,26 @@
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL — DOCTOR'S CASE NOTES
+Patient: Lakshmi Venkataraman  |  IP: IP/2025/5341  |  Dept: Nephrology
+Case Notes — Lakshmi Venkataraman
+  IP No: IP/2025/5341   Dept: Nephrology
+  Admit: 18-Apr-2025   Discharge: 22-Apr-2025
+Admission:
+  decreased urine output, generalised swelling, breathles
+  Diagnosis: End Stage Renal Disease (ESRD) — Chronic Kidney Di
+  ICD-10: N18.5
+Treatment:
+  Procedure: Haemodialysis — 3 sessions + Arteriovenous Fistula Revi
+  Patient tolerated procedure well
+  Post-op vitals stable
+Progress:
+  Day 2: Improving, tolerating orals
+  Day 3: Mobilising with support
+Discharge (22-Apr-2025):
+  Stable, vitals normal, wound healthy
+  Medications prescribed
+  Follow up 1 week
+Dr Harish Gowda
+MBBS, MD, DM (Nephrology)
+Date: 22-Apr-2025
+ORIGINAL
+CASE NOTES

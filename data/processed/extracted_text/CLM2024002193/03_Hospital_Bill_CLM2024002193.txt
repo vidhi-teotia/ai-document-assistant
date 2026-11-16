@@ -1,0 +1,89 @@
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024002193
+This document is computer generated and is valid without signature unless stated otherwise.
+REJECTED
+R02
+FINAL HOSPITAL BILL / TAX INVOICE
+Bill No: BILL/2025/002193
+Bill Date: 28-Feb-2025
+Claim No: CLM2024002193
+Patient Details
+Name: Meena Subramaniam
+Age/Gender: 62 Yrs / Female
+IP No: IP/2025/2193
+Dept: Orthopaedics
+Admit: 22-Feb-2025 Discharge: 28-Feb-2025
+Insurance Details
+Insurer: Care Health Insurance Ltd.
+Policy No: CRH/2023/00128734
+TPA: Vidal Health TPA Pvt. Ltd.
+Preauth No: REJECTED
+Claim Type: Reimbursement
+Bill Breakup — Itemised Charges
+#
+Description
+Qty / Days
+Rate
+Amount
+1
+Room Charges
+6 Days
+Rs. 2,000/-
+Rs. 12,000/-
+2
+Surgeon / Consultant Fees
+1
+Rs. 40,000/-
+Rs. 40,000/-
+3
+Anaesthesia Charges
+1
+Rs. 12,000/-
+Rs. 12,000/-
+4
+Operation Theatre Charges
+1
+Rs. 18,000/-
+Rs. 18,000/-
+5
+Nursing Care Charges
+6 Days
+Rs. 1,200/-
+Rs. 7,200/-
+6
+Pharmacy / Medicines
+As per bills
+—
+Rs. 18,000/-
+7
+Lab Investigations
+As per reports
+—
+Rs. 6,000/-
+8
+Radiology Charges
+As per reports
+—
+Rs. 9,000/-
+9
+Implant: Cemented Total Knee Implant System
+(Triathlon, Stryker)
+1 Unit
+Rs. 95,000/-
+Rs. 95,000/-
+Gross Bill Amount
+Rs. 145,000/-
+Less: Non-Admissible Expenses
+(Rs. 3,625/-)
+Net Admissible Amount
+Rs. 141,375/-
+Co-pay (Patient Liability)
+—
+Amount Payable by Insurer
+—
+This is a computer generated bill. For queries contact billing department.

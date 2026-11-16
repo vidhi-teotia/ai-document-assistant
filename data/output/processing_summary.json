@@ -1,0 +1,15 @@
+{
+  "total_claims_processed": 5,
+  "data_quality_passed": false,
+  "ml_ready": false,
+  "valid_records": 0,
+  "invalid_records": 5,
+  "output_files": {
+    "rag_answers": "C:\\Users\\HP\\OneDrive\\Desktop\\DOC-INTELLIGENCE\\data\\output\\rag_answers.json",
+    "claim_schema": "C:\\Users\\HP\\OneDrive\\Desktop\\DOC-INTELLIGENCE\\data\\output\\claim_schema.json",
+    "claim_records": "C:\\Users\\HP\\OneDrive\\Desktop\\DOC-INTELLIGENCE\\data\\output\\claim_records.json",
+    "claims_dataset": "C:\\Users\\HP\\OneDrive\\Desktop\\DOC-INTELLIGENCE\\data\\output\\claim_dataset.csv",
+    "data_quality_report": "C:\\Users\\HP\\OneDrive\\Desktop\\DOC-INTELLIGENCE\\data\\output\\data_quality_report.json",
+    "data_dictionary": "C:\\Users\\HP\\OneDrive\\Desktop\\DOC-INTELLIGENCE\\data\\output\\data_dictionary.csv"
+  }
+}

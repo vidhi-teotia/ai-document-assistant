@@ -1,0 +1,660 @@
+CLAIM ID: CLM2024001847
+
+================================================================================
+DOCUMENT: 01_Claim_Form_CLM2024001847
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 2  |  Ref: CLM2024001847
+This document is computer generated and is valid without signature unless stated otherwise.
+HEALTH INSURANCE CLAIM FORM — STAR HEALTH AND ALLIED
+INSURANCE CO. LTD.
+PART A — To be filled by the Insured / Patient
+Section 1: Policy Details
+Policy Number:
+P/211111/01/2024/004521
+Name of Insured:
+Rajesh Kumar Sharma
+Insurance Company:
+Star Health and Allied Insurance Co. Ltd.
+TPA Name:
+Star Health (In-house TPA)
+Sum Insured:
+Rs. 5,00,000
+Product / Plan:
+Star Comprehensive
+Section 2: Patient Details
+Patient Name:
+Rajesh Kumar Sharma
+Date of Birth:
+12-Mar-1966
+Age:
+58 Years
+Gender:
+Male
+ABHA ID:
+83-9313-4485-3535
+Mobile Number:
++91 98451 23456
+Address:
+42, 3rd Cross, Indiranagar, Bangalore - 560038
+Relationship to Insured:
+Self
+Section 3: Hospitalisation Details
+Hospital Name:
+City Multi-Speciality Hospital
+Hospital Address:
+123, MG Road, Bangalore - 560001
+ROHINI ID:
+MH-KA-BLR-00284
+Date of Admission:
+08-Jan-2025
+Date of Discharge:
+13-Jan-2025
+Diagnosis:
+Acute ST-Elevation Myocardial Infarction (STEMI)
+ICD-10 Code:
+I21.0
+Claim Type:
+Cashless
+Total Amount Claimed:
+Rs. 187,500/-
+Declaration by Insured:
+I hereby declare that the information furnished above is true and correct to the best of my knowledge and belief. I
+authorise the hospital and doctors to release all medical information to the Insurance Company / TPA for the purpose
+of processing this claim. I am aware that any misrepresentation or suppression of facts may render my claim liable for
+rejection.
+Signature of Insured: ________________
+Date: 15-Jan-2025
+Place: Bangalore
+
+
+ 2 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 2 of 2  |  Ref: CLM2024001847
+This document is computer generated and is valid without signature unless stated otherwise.
+PART B — To be filled by the Hospital / Treating Doctor
+Section 4: Medical Certificate
+Treating Doctor:
+Dr. Suresh Reddy
+Qualification:
+MBBS, MD, DM (Cardiology)
+MCI Reg. No.:
+KMC/45231/2018
+Final Diagnosis:
+Acute ST-Elevation Myocardial Infarction (STEMI)
+ICD-10 Code:
+I21.0
+Procedure Performed:
+Percutaneous Transluminal Coronary Angioplasty (PTCA) with DES Stent
+Whether surgically treated:
+Yes
+Date of Surgery:
+08-Jan-2025
+Pre-existing Disease:
+Hypertension — 8 years, Type 2 Diabetes — 5 years
+Accident / Injury:
+No
+Hospital Declaration:
+Certified that the above patient was admitted and treated in our hospital. The information furnished is true and correct.
+All documents submitted are genuine.
+Signature of Treating Doctor Dr. Suresh Reddy
+MBBS, MD, DM (Cardiology)
+Signature with Hospital Seal City
+Multi-Speciality Hospital ROHINI:
+MH-KA-BLR-00284
+Date: 13-Jan-2025
+
+================================================================================
+DOCUMENT: 02_Discharge_Summary_CLM2024001847
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 2  |  Ref: CLM2024001847
+This document is computer generated and is valid without signature unless stated otherwise.
+DISCHARGE SUMMARY
+Patient Information
+Patient Name
+Rajesh Kumar Sharma
+Age / Gender
+58 Yrs / Male
+Date of Birth
+12-Mar-1966
+ABHA ID
+83-9313-4485-3535
+Address
+42, 3rd Cross, Indiranagar,
+Bangalore - 560038
+Mobile
++91 98451 23456
+IP Number
+IP/2025/1847
+Ward / Bed
+Cardiac ICU / Private / Bed No. 277
+Admission & Discharge Details
+Date of Admission
+08-Jan-2025
+Time of Admission
+13:15
+Date of Discharge
+13-Jan-2025
+Time of Discharge
+12:30
+Length of Stay
+5 Days
+Admission Type
+Planned
+Department
+Cardiology
+Treating Doctor
+Dr. Suresh Reddy
+Qualification
+MBBS, MD, DM (Cardiology)
+Reg. No.
+KMC/45231/2018
+Clinical Details
+Chief Complaint:
+Patient presented with chest pain, breathlessness, and diaphoresis since 4 hours
+Final Diagnosis:
+Acute ST-Elevation Myocardial Infarction (STEMI) (ICD-10: I21.0)
+Procedure Performed:
+Percutaneous Transluminal Coronary Angioplasty (PTCA) with DES Stent
+Implant Used:
+DES Coronary Stent 3.0×28mm (Xience Sierra, Abbott)
+Anaesthesia Given by:
+Dr. Priya Sharma, MBBS, MD (Anaesthesia)
+History of Present Illness:
+Rajesh Kumar Sharma, a 58-year-old male with known hypertension and type 2 diabetes, presented to casualty with
+acute onset chest pain radiating to left arm, associated with diaphoresis and breathlessness. ECG showed ST
+elevation in leads V1-V4. Troponin I was significantly elevated at 12.4 ng/mL. Patient was immediately taken for
+emergency coronary angiography.
+Investigations at Admission:
+ECG: ST elevation V1-V4. Troponin I: 12.4 ng/mL (elevated). 2D Echo: EF 35%, anterior wall hypokinesia. Coronary
+angiography: LAD 95% stenosis, LCX 40% stenosis.
+Treatment Given:
+Emergency PTCA performed. DES stent (3.0×28mm, Xience Sierra, Abbott) deployed in LAD. Aspirin, Clopidogrel,
+Atorvastatin, Ramipril, Metoprolol started. Post-procedure ECG: ST resolution. Patient shifted to CCU.
+Condition at Discharge:
+Patient discharged in stable condition. Vitals stable. Wound healthy. Advised rest and follow-up.
+Discharge Medications:
+Tab Aspirin 75mg OD, Tab Clopidogrel 75mg OD, Tab Atorvastatin 40mg HS, Tab Ramipril 5mg OD, Tab Metoprolol
+25mg BD, Tab Pantoprazole 40mg OD for 30 days.
+Follow-up Instructions:
+
+
+ 2 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 2 of 2  |  Ref: CLM2024001847
+This document is computer generated and is valid without signature unless stated otherwise.
+Review after 7 days in OPD. Suture removal after 10 days. Avoid strenuous activity for 6 weeks. Contact emergency if
+fever, pain, or wound discharge. Next OPD: 20-Jan-2025.
+Dr. Suresh Reddy
+Dr. Ramesh Bhat
+Dr. S. Krishnamurthy
+MBBS, MD, DM (Cardiology)
+MBBS, MD (Medicine)
+MBBS, MD — Medical Superintendent
+Treating Consultant
+Registrar
+City Multi-Speciality Hospital
+Date: 13-Jan-2025
+Date: 13-Jan-2025
+NABH Accredited
+
+================================================================================
+DOCUMENT: 03_Hospital_Bill_CLM2024001847
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024001847
+This document is computer generated and is valid without signature unless stated otherwise.
+PAID
+28-Jan-2025
+FINAL HOSPITAL BILL / TAX INVOICE
+Bill No: BILL/2025/001847
+Bill Date: 13-Jan-2025
+Claim No: CLM2024001847
+Patient Details
+Name: Rajesh Kumar Sharma
+Age/Gender: 58 Yrs / Male
+IP No: IP/2025/1847
+Dept: Cardiology
+Admit: 08-Jan-2025 Discharge: 13-Jan-2025
+Insurance Details
+Insurer: Star Health and Allied Insurance Co. Ltd.
+Policy No: P/211111/01/2024/004521
+TPA: Star Health (In-house TPA)
+Preauth No: PA20240089341
+Claim Type: Cashless
+Bill Breakup — Itemised Charges
+#
+Description
+Qty / Days
+Rate
+Amount
+1
+Room Charges
+5 Days
+Rs. 3,600/-
+Rs. 18,000/-
+2
+ICU / HDU Charges
+2 Days
+Rs. 22,500/-
+Rs. 45,000/-
+3
+Surgeon / Consultant Fees
+1
+Rs. 35,000/-
+Rs. 35,000/-
+4
+Anaesthesia Charges
+1
+Rs. 10,500/-
+Rs. 10,500/-
+5
+Operation Theatre Charges
+1
+Rs. 22,000/-
+Rs. 22,000/-
+6
+Nursing Care Charges
+5 Days
+Rs. 1,700/-
+Rs. 8,500/-
+7
+Pharmacy / Medicines
+As per bills
+—
+Rs. 22,000/-
+8
+Lab Investigations
+As per reports
+—
+Rs. 8,500/-
+9
+Radiology Charges
+As per reports
+—
+Rs. 14,000/-
+10
+Implant: DES Coronary Stent 3.0×28mm (Xience
+Sierra, Abbott)
+1 Unit
+Rs. 85,000/-
+Rs. 85,000/-
+Gross Bill Amount
+Rs. 187,500/-
+Less: Non-Admissible Expenses
+(Rs. 4,688/-)
+Net Admissible Amount
+Rs. 182,812/-
+Co-pay (Patient Liability)
+—
+Amount Payable by Insurer
+Rs. 162,000/-
+This is a computer generated bill. For queries contact billing department.
+
+================================================================================
+DOCUMENT: 04_Lab_Report_CLM2024001847
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024001847
+This document is computer generated and is valid without signature unless stated otherwise.
+LABORATORY INVESTIGATION REPORT
+Patient: Rajesh Kumar Sharma
+Age/Sex: 58Y / M
+IP No: IP/2025/1847
+Date: 08-Jan-2025
+Investigations — Cardiology Workup
+Test
+Result
+Reference Range
+Units
+Status
+Haemoglobin
+11.8
+12.0-16.0
+g/dL
+LOW
+Total WBC Count
+12,400
+4,000-11,000
+/cmm
+HIGH
+Platelet Count
+2,45,000
+1,50,000-4,00,000
+/cmm
+Normal
+Random Blood Sugar
+168
+70-140
+mg/dL
+HIGH
+Serum Creatinine
+1.2
+0.6-1.2
+mg/dL
+Normal
+Blood Urea Nitrogen
+22
+8-25
+mg/dL
+Normal
+Serum Sodium
+138
+136-145
+mEq/L
+Normal
+Serum Potassium
+4.2
+3.5-5.0
+mEq/L
+Normal
+Total Bilirubin
+0.8
+0.2-1.2
+mg/dL
+Normal
+SGOT (AST)
+42
+10-40
+U/L
+HIGH
+SGPT (ALT)
+38
+7-40
+U/L
+Normal
+HbA1c
+7.8
+< 6.5
+%
+HIGH
+Troponin I
+12.4
+< 0.04
+ng/mL
+HIGH
+CPK-MB
+186
+< 25
+U/L
+HIGH
+PT/INR
+1.1
+0.8-1.2
+Ratio
+Normal
+Interpretation:
+Elevated Troponin I and CPK-MB consistent with acute myocardial infarction. Elevated WBC suggestive of
+inflammatory response. Diabetic status noted — HbA1c 7.8%.
+Dr. Mohan Das MBBS, MD (Pathology) Reg:
+KMC/33201/2012 Laboratory Director
+Report Date: 08-Jan-2025 City Diagnostics Lab
+City Multi-Speciality Hospital NABL Accredited
+
+================================================================================
+DOCUMENT: 05_Doctors_Notes_CLM2024001847
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL — DOCTOR'S CASE NOTES
+Patient: Rajesh Kumar Sharma  |  IP: IP/2025/1847  |  Dept: Cardiology
+Case Notes — Rajesh Kumar Sharma  IP: IP/2025/1847
+Date: 08-Jan-2025    Time: 14:35    Dept: CCU
+Day 1 — Admission Note:
+  Pt 58M/F, c/o acute chest pain 4 hrs
+  H/o HTN, DM Type 2 on oral meds
+  P: 110/min, BP: 90/60 mmHg, SpO2: 92% RA
+  ECG: ST elevation V1-V4 — STEMI
+  Trop I: 12.4 ng/mL (significantly elevated)
+  Impression: Acute STEMI — anterior wall
+  Plan: Emergency cath lab — PTCA planned
+  Loaded Aspirin 300mg + Clopidogrel 600mg
+  IV Heparin started, O2 @ 4L/min
+Cath Lab Note:
+  Coronary Angiography: LAD 95% stenosis
+  LCX: 40% non-significant
+  RCA: Normal
+  PTCA done to LAD — DES 3.0x28mm deployed
+  Good angiographic result, TIMI 3 flow
+  Haemostasis: Radial artery — manual compression
+Day 3 — Progress Note:
+  Pt stable, chest pain resolved
+  BP: 110/70, HR: 72/min, SpO2: 98% RA
+  Echo post-PTCA: EF improved to 42%
+  Shifted from CCU to private room
+Day 5 — Discharge Note (13-Jan-2025):
+  Haemodynamically stable, ambulatory
+  Wound: Radial site healing well
+Dr Suresh Reddy
+MBBS, MD, DM (Cardiology)
+Date: 13-Jan-2025
+ORIGINAL
+CASE NOTES
+
+================================================================================
+DOCUMENT: 06_Pharmacy_Bill_CLM2024001847
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024001847
+This document is computer generated and is valid without signature unless stated otherwise.
+PHARMACY BILL / DRUG DISPENSING RECORD
+Patient: Rajesh Kumar Sharma
+IP No: IP/2025/1847
+Ward: Cardiac ICU / Private
+Medicines and Consumables Dispensed
+Drug / Item
+Dosage
+Qty
+Rate (Rs.)
+Amount (Rs.)
+Inj. Heparin 5000 IU
+IV Bolus
+1
+450
+450
+Inj. Aspirin 300mg
+IV loading
+1
+85
+85
+Inj. Eptifibatide 2mg/mL
+IV infusion 24hr
+2
+3200
+6400
+Tab Clopidogrel 600mg
+Loading dose
+1
+12
+12
+Inj. Pantoprazole 40mg
+IV BD
+10
+45
+450
+Inj. Atorvastatin 40mg
+Oral
+5
+18
+90
+Tab Metoprolol 25mg
+Oral BD
+10
+4
+40
+IV Fluids NS 500mL
+IV drip
+8
+65
+520
+Disposables & Cannula
+—
+1 set
+850
+850
+Contrast Media (Iohexol)
+Cath Lab
+1 vial
+4800
+4800
+Miscellaneous pharmacy
+Various
+—
+—
+1500
+Total Pharmacy Amount:
+Rs. 15,197/-
+Note: All prescription drugs dispensed against doctor's written orders. Non-admissible items (toiletries, supplements) billed
+separately to patient.
+
+================================================================================
+DOCUMENT: 07_Preauth_Letter_CLM2024001847
+================================================================================
+1 ---
+STAR HEALTH (IN-HOUSE TPA)
+IRDAI Registration No. TPA/2001/0015  |  Claims Processing Division
+4th Floor, Prestige Towers, MG Road, Bangalore - 560001  |  claims@tpa.in  |  1800-123-4567
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024001847
+This document is computer generated and is valid without signature unless stated otherwise.
+APPROVED
+PA20240089341
+PRE-AUTHORISATION APPROVAL LETTER
+Ref: PA20240089341 | Date: 08-Jan-2025
+To,
+The Medical Superintendent,
+City Multi-Speciality Hospital, Bangalore.
+Dear Sir/Madam, This letter is to confirm that pre-authorisation has been APPROVED for the cashless treatment of the
+above-mentioned patient.
+Authorisation Details
+Patient Name:
+Rajesh Kumar Sharma
+Policy Number:
+P/211111/01/2024/004521
+Pre-auth Reference:
+PA20240089341
+Diagnosis:
+Acute ST-Elevation Myocardial Infarction (STEMI)
+Approved Procedure:
+Percutaneous Transluminal Coronary Angioplasty (PTCA) with DES Stent
+Approved Amount:
+Rs. 170,100/-
+Valid From:
+08-Jan-2025
+Valid Till:
+13-Jan-2025
+Claim Type:
+Cashless
+Conditions: This approval is subject to policy terms. Final settlement will be based on actual bills, documents submitted, and policy
+eligibility. Room rent beyond policy limit will be borne by patient.
+
+================================================================================
+DOCUMENT: 08_TPA_Response_CLM2024001847
+================================================================================
+1 ---
+STAR HEALTH (IN-HOUSE TPA)
+IRDAI Registration No. TPA/2001/0015  |  Claims Processing Division
+4th Floor, Prestige Towers, MG Road, Bangalore - 560001  |  claims@tpa.in  |  1800-123-4567
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024001847
+This document is computer generated and is valid without signature unless stated otherwise.
+SETTLED
+28-Jan-2025
+CLAIM SETTLEMENT ADVICE
+Ref No: SETTLE/CLM2024001847/28Jan2025
+Date: 28-Jan-2025
+Dear Rajesh Kumar Sharma, We are pleased to inform you that your health insurance claim has been processed and
+SETTLED. Details of settlement are as under:
+Settlement Details
+Claim Number:
+CLM2024001847
+Policy Number:
+P/211111/01/2024/004521
+Hospital:
+City Multi-Speciality Hospital
+Admission Date:
+08-Jan-2025
+Discharge Date:
+13-Jan-2025
+Diagnosis:
+Acute ST-Elevation Myocardial Infarction (STEMI)
+Total Billed Amount:
+Rs. 187,500/-
+Non-Admissible Deductions:
+Rs. 4,688/-
+Approved Amount:
+Rs. 162,000/-
+TDS Deducted @ 2%:
+Rs. 3,240/-
+Net Amount Payable to Hospital:
+Rs. 158,760/-
+Payment Mode:
+NEFT
+UTR Number:
+UTR198912225902
+Payment Date:
+28-Jan-2025
+This settlement is in full and final settlement of the above claim. For any queries please contact our helpline: 1800-123-4567
+
+================================================================================
+DOCUMENT: 09_OT_Notes_CLM2024001847
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+OPERATION THEATRE RECORD / ANAESTHESIA NOTES
+CONFIDENTIAL MEDICAL RECORD
+CATH LAB RECORD — Rajesh Kumar Sharma
+  Date: 08-Jan-2025   Time Start: 16:45   Time End: 18:20
+  Surgeon: Dr Suresh Reddy
+  Scrub: Sr. Staff Nurse Usha
+Procedure: Emergency PTCA + DES Stenting
+  Access: Right radial artery — 6Fr sheath
+  Guide: EBU 3.5
+  Wire: BMW universal
+  Lesion: LAD mid — 95% stenosis
+  Pre-dilation: 2.5x15mm balloon @ 12 atm
+  Stent deployed: DES 3.0x28mm @ 14 atm
+  Post-dilation: 3.25mm NC @ 16 atm
+  Final result: <10% residual, TIMI 3
+  Contrast used: 180mL Iohexol
+  Fluoroscopy time: 12.4 min
+  Complications: None
+  Haemostasis: TR band applied radial
+Surgeon: Dr. Suresh Reddy
+Anaesthetist: Dr. Priya Sharma
+Date: 08-Jan-2025    OT No: OT-4
+OT VERIFIED
+08-Jan-2025

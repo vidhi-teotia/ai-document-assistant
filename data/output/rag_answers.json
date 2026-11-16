@@ -1,0 +1,152 @@
+[
+  {
+    "question": "What is the total claim amount?",
+    "answer": "The total claim amount is Rs. 187,500.",
+    "sources": [
+      {
+        "source_number": 1,
+        "chunk_id": "CLM2024001847_chunk_002",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 2,
+        "cosine_distance": 0.48466038703918457
+      },
+      {
+        "source_number": 2,
+        "chunk_id": "CLM2024001847_chunk_020",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 20,
+        "cosine_distance": 0.4890735149383545
+      },
+      {
+        "source_number": 3,
+        "chunk_id": "CLM2024001847_chunk_010",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 10,
+        "cosine_distance": 0.5008231401443481
+      }
+    ]
+  },
+  {
+    "question": "What diagnosis is mentioned in the claim documents?",
+    "answer": "The diagnosis mentioned in the claim documents is Acute ST-Elevation Myocardial Infarction (STEMI).",
+    "sources": [
+      {
+        "source_number": 1,
+        "chunk_id": "CLM2024001847_chunk_004",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 4,
+        "cosine_distance": 0.3608212471008301
+      },
+      {
+        "source_number": 2,
+        "chunk_id": "CLM2024001847_chunk_003",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 3,
+        "cosine_distance": 0.3877495527267456
+      },
+      {
+        "source_number": 3,
+        "chunk_id": "CLM2024001847_chunk_019",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 19,
+        "cosine_distance": 0.4016915559768677
+      }
+    ]
+  },
+  {
+    "question": "What is the policy number?",
+    "answer": "The policy number is P/211111/01/2024/004521.",
+    "sources": [
+      {
+        "source_number": 1,
+        "chunk_id": "CLM2024001847_chunk_001",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 1,
+        "cosine_distance": 0.4816596508026123
+      },
+      {
+        "source_number": 2,
+        "chunk_id": "CLM2024001847_chunk_002",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 2,
+        "cosine_distance": 0.49489331245422363
+      },
+      {
+        "source_number": 3,
+        "chunk_id": "CLM2024001847_chunk_016",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 16,
+        "cosine_distance": 0.49506890773773193
+      }
+    ]
+  },
+  {
+    "question": "What is the patient's passport number?",
+    "answer": "The document context does not contain enough information to provide the patient's passport number.",
+    "sources": [
+      {
+        "source_number": 1,
+        "chunk_id": "CLM2024001847_chunk_016",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 16,
+        "cosine_distance": 0.4005826711654663
+      },
+      {
+        "source_number": 2,
+        "chunk_id": "CLM2024001847_chunk_004",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 4,
+        "cosine_distance": 0.41388243436813354
+      },
+      {
+        "source_number": 3,
+        "chunk_id": "CLM2024001847_chunk_012",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 12,
+        "cosine_distance": 0.4227874279022217
+      }
+    ]
+  },
+  {
+    "question": "Who is Bill Gates?",
+    "answer": "The document context does not contain enough information to answer who Bill Gates is.",
+    "sources": [
+      {
+        "source_number": 1,
+        "chunk_id": "CLM2024001847_chunk_012",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 12,
+        "cosine_distance": 0.6013065576553345
+      },
+      {
+        "source_number": 2,
+        "chunk_id": "CLM2024001847_chunk_016",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 16,
+        "cosine_distance": 0.6032110452651978
+      },
+      {
+        "source_number": 3,
+        "chunk_id": "CLM2024001847_chunk_010",
+        "claim_id": "CLM2024001847",
+        "source_file": "CLM2024001847.txt",
+        "chunk_index": 10,
+        "cosine_distance": 0.6074357032775879
+      }
+    ]
+  }
+]

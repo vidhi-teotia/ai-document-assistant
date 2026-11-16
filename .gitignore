@@ -1,4 +1,4 @@
-# Python
+S# Python
 __pycache__/
 *.py[cod]
 *.pyo
@@ -26,10 +26,18 @@ frontend/dist/
 frontend/.env
 frontend/.env.*
 
-# Generated data and local databases
+# Keep original PDFs private
 data/raw/
-data/processed/
-data/output/
+
+# Include processed demo data
+!data/processed/
+!data/processed/**
+
+# Include generated demo outputs
+!data/output/
+!data/output/**
+
+# Local databases
 *.db
 *.sqlite
 *.sqlite3

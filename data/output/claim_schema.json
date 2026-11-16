@@ -1,0 +1,149 @@
+{
+  "properties": {
+    "claim_id": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Unique claim number",
+      "title": "Claim Id"
+    },
+    "policy_number": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Insurance policy ID",
+      "title": "Policy Number"
+    },
+    "patient_name": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Name of the patient",
+      "title": "Patient Name"
+    },
+    "hospital_name": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Hospital name",
+      "title": "Hospital Name"
+    },
+    "diagnosis": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Primary diagnosis",
+      "title": "Diagnosis"
+    },
+    "admission_date": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Date of admission",
+      "title": "Admission Date"
+    },
+    "discharge_date": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Date of discharge",
+      "title": "Discharge Date"
+    },
+    "claim_type": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Cashless or reimbursement",
+      "title": "Claim Type"
+    },
+    "total_claim_amount": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Total amount claimed or billed",
+      "title": "Total Claim Amount"
+    },
+    "approved_amount": {
+      "anyOf": [
+        {
+          "type": "number"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Approved or payable claim amount when available",
+      "title": "Approved Amount"
+    },
+    "claim_status": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "description": "Claim status such as approved, rejected, or pending",
+      "title": "Claim Status"
+    }
+  },
+  "title": "ClaimRecord",
+  "type": "object"
+}

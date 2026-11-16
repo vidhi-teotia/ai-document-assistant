@@ -1,0 +1,101 @@
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024001847
+This document is computer generated and is valid without signature unless stated otherwise.
+LABORATORY INVESTIGATION REPORT
+Patient: Rajesh Kumar Sharma
+Age/Sex: 58Y / M
+IP No: IP/2025/1847
+Date: 08-Jan-2025
+Investigations — Cardiology Workup
+Test
+Result
+Reference Range
+Units
+Status
+Haemoglobin
+11.8
+12.0-16.0
+g/dL
+LOW
+Total WBC Count
+12,400
+4,000-11,000
+/cmm
+HIGH
+Platelet Count
+2,45,000
+1,50,000-4,00,000
+/cmm
+Normal
+Random Blood Sugar
+168
+70-140
+mg/dL
+HIGH
+Serum Creatinine
+1.2
+0.6-1.2
+mg/dL
+Normal
+Blood Urea Nitrogen
+22
+8-25
+mg/dL
+Normal
+Serum Sodium
+138
+136-145
+mEq/L
+Normal
+Serum Potassium
+4.2
+3.5-5.0
+mEq/L
+Normal
+Total Bilirubin
+0.8
+0.2-1.2
+mg/dL
+Normal
+SGOT (AST)
+42
+10-40
+U/L
+HIGH
+SGPT (ALT)
+38
+7-40
+U/L
+Normal
+HbA1c
+7.8
+< 6.5
+%
+HIGH
+Troponin I
+12.4
+< 0.04
+ng/mL
+HIGH
+CPK-MB
+186
+< 25
+U/L
+HIGH
+PT/INR
+1.1
+0.8-1.2
+Ratio
+Normal
+Interpretation:
+Elevated Troponin I and CPK-MB consistent with acute myocardial infarction. Elevated WBC suggestive of
+inflammatory response. Diabetic status noted — HbA1c 7.8%.
+Dr. Mohan Das MBBS, MD (Pathology) Reg:
+KMC/33201/2012 Laboratory Director
+Report Date: 08-Jan-2025 City Diagnostics Lab
+City Multi-Speciality Hospital NABL Accredited

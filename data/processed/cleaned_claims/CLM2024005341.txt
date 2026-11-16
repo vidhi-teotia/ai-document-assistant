@@ -1,0 +1,593 @@
+CLAIM ID: CLM2024005341
+
+================================================================================
+DOCUMENT: 01_Claim_Form_CLM2024005341
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001 | Tel: 080-4455-6677 | www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284 | NABH Accredited | ISO 9001:2015 Certified
+24x7 Emergency: 080-4455-9999 | info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 2 | Ref: CLM2024005341
+This document is computer generated and is valid without signature unless stated otherwise.
+HEALTH INSURANCE CLAIM FORM - NEW INDIA ASSURANCE CO.
+LTD.
+PART A - To be filled by the Insured / Patient
+Section 1: Policy Details
+Policy Number:
+NIA/MED/2023/00781234
+Name of Insured:
+Lakshmi Venkataraman
+Insurance Company:
+New India Assurance Co. Ltd.
+TPA Name:
+MDIndia Health Insurance TPA Pvt. Ltd.
+Sum Insured:
+Rs. 5,00,000
+Product / Plan:
+New India Floater Mediclaim
+Section 2: Patient Details
+Patient Name:
+Lakshmi Venkataraman
+Date of Birth:
+08-Jan-1958
+Age:
+67 Years
+Gender:
+Female
+ABHA ID:
+44-7723-9901-5512
+Mobile Number:
++91 94481 22345
+Address:
+22, Sadashivanagar, Bangalore - 560080
+Relationship to Insured:
+Self
+Section 3: Hospitalisation Details
+Hospital Name:
+City Multi-Speciality Hospital
+Hospital Address:
+123, MG Road, Bangalore - 560001
+ROHINI ID:
+MH-KA-BLR-00284
+Date of Admission:
+18-Apr-2025
+Date of Discharge:
+22-Apr-2025
+Diagnosis:
+End Stage Renal Disease (ESRD) - Chronic Kidney Disease Stage 5
+ICD-10 Code:
+N18.5
+Claim Type:
+Cashless
+Total Amount Claimed:
+Rs. 68,000/-
+Declaration by Insured:
+I hereby declare that the information furnished above is true and correct to the best of my knowledge and belief. I
+authorise the hospital and doctors to release all medical information to the Insurance Company / TPA for the purpose
+of processing this claim. I am aware that any misrepresentation or suppression of facts may render my claim liable for
+rejection.
+Signature of Insured: ________________
+Date: 24-Apr-2025
+Place: Bangalore
+
+2 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001 | Tel: 080-4455-6677 | www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284 | NABH Accredited | ISO 9001:2015 Certified
+24x7 Emergency: 080-4455-9999 | info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 2 of 2 | Ref: CLM2024005341
+This document is computer generated and is valid without signature unless stated otherwise.
+PART B - To be filled by the Hospital / Treating Doctor
+Section 4: Medical Certificate
+Treating Doctor:
+Dr. Harish Gowda
+Qualification:
+MBBS, MD, DM (Nephrology)
+MCI Reg. No.:
+KMC/47123/2019
+Final Diagnosis:
+End Stage Renal Disease (ESRD) - Chronic Kidney Disease Stage 5
+ICD-10 Code:
+N18.5
+Procedure Performed:
+Haemodialysis - 3 sessions + Arteriovenous Fistula Revision
+Whether surgically treated:
+No
+Date of Surgery:
+N/A
+Pre-existing Disease:
+Hypertension - 15 years, Type 2 Diabetes - 12 years
+Accident / Injury:
+No
+Hospital Declaration:
+Certified that the above patient was admitted and treated in our hospital. The information furnished is true and correct.
+All documents submitted are genuine.
+Signature of Treating Doctor Dr. Harish Gowda
+MBBS, MD, DM (Nephrology)
+Signature with Hospital Seal City
+Multi-Speciality Hospital ROHINI:
+MH-KA-BLR-00284
+Date: 22-Apr-2025
+
+================================================================================
+DOCUMENT: 02_Discharge_Summary_CLM2024005341
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001 | Tel: 080-4455-6677 | www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284 | NABH Accredited | ISO 9001:2015 Certified
+24x7 Emergency: 080-4455-9999 | info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 2 | Ref: CLM2024005341
+This document is computer generated and is valid without signature unless stated otherwise.
+DISCHARGE SUMMARY
+Patient Information
+Patient Name
+Lakshmi Venkataraman
+Age / Gender
+67 Yrs / Female
+Date of Birth
+08-Jan-1958
+ABHA ID
+44-7723-9901-5512
+Address
+22, Sadashivanagar, Bangalore -
+560080
+Mobile
++91 94481 22345
+IP Number
+IP/2025/5341
+Ward / Bed
+Nephrology Ward / Bed No. 269
+Admission & Discharge Details
+Date of Admission
+18-Apr-2025
+Time of Admission
+17:45
+Date of Discharge
+22-Apr-2025
+Time of Discharge
+13:00
+Length of Stay
+4 Days
+Admission Type
+Planned
+Department
+Nephrology
+Treating Doctor
+Dr. Harish Gowda
+Qualification
+MBBS, MD, DM (Nephrology)
+Reg. No.
+KMC/47123/2019
+Clinical Details
+Chief Complaint:
+Patient presented with decreased urine output, generalised swelling, breathlessness on
+exertion
+Final Diagnosis:
+End Stage Renal Disease (ESRD) - Chronic Kidney Disease Stage 5 (ICD-10: N18.5)
+Procedure Performed:
+Haemodialysis - 3 sessions + Arteriovenous Fistula Revision
+History of Present Illness:
+Lakshmi Venkataraman, a 67-year-old female with known ESRD on maintenance haemodialysis, admitted for
+scheduled dialysis sessions and revision of AVF due to inadequate flow. Serum creatinine 8.4 mg/dL, BUN 98 mg/dL.
+Investigations at Admission:
+Serum Creatinine: 8.4 mg/dL. BUN: 98 mg/dL. eGFR: 6 mL/min. Potassium: 5.8 mEq/L. USG Doppler: AVF flow
+inadequate, stenosis at anastomotic site.
+Treatment Given:
+3 sessions of haemodialysis performed (4 hrs each, QB 300 ml/min). AVF revision done under local anaesthesia -
+balloon angioplasty at stenotic segment. Flow improved to 450 ml/min.
+Condition at Discharge:
+Patient discharged in stable condition. Vitals stable. Wound healthy. Advised rest and follow-up.
+Discharge Medications:
+Tab Amlodipine 5mg OD, Tab Furosemide 40mg OD, Tab Sodium Bicarbonate 500mg TID, Inj Erythropoietin 4000 IU
+SC twice weekly, Sevelamer Carbonate 800mg TID with meals.
+Follow-up Instructions:
+Review after 7 days in OPD. Suture removal after 10 days. Avoid strenuous activity for 6 weeks. Contact emergency if
+fever, pain, or wound discharge. Next OPD: 29-Apr-2025.
+
+2 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001 | Tel: 080-4455-6677 | www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284 | NABH Accredited | ISO 9001:2015 Certified
+24x7 Emergency: 080-4455-9999 | info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 2 of 2 | Ref: CLM2024005341
+This document is computer generated and is valid without signature unless stated otherwise.
+Dr. Harish Gowda
+Dr. Ramesh Bhat
+Dr. S. Krishnamurthy
+MBBS, MD, DM (Nephrology)
+MBBS, MD (Medicine)
+MBBS, MD - Medical Superintendent
+Treating Consultant
+Registrar
+City Multi-Speciality Hospital
+Date: 22-Apr-2025
+Date: 22-Apr-2025
+NABH Accredited
+
+================================================================================
+DOCUMENT: 03_Hospital_Bill_CLM2024005341
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001 | Tel: 080-4455-6677 | www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284 | NABH Accredited | ISO 9001:2015 Certified
+24x7 Emergency: 080-4455-9999 | info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1 | Ref: CLM2024005341
+This document is computer generated and is valid without signature unless stated otherwise.
+PAID
+10-May-2025
+FINAL HOSPITAL BILL / TAX INVOICE
+Bill No: BILL/2025/005341
+Bill Date: 22-Apr-2025
+Claim No: CLM2024005341
+Patient Details
+Name: Lakshmi Venkataraman
+Age/Gender: 67 Yrs / Female
+IP No: IP/2025/5341
+Dept: Nephrology
+Admit: 18-Apr-2025 Discharge: 22-Apr-2025
+Insurance Details
+Insurer: New India Assurance Co. Ltd.
+Policy No: NIA/MED/2023/00781234
+TPA: MDIndia Health Insurance TPA Pvt. Ltd.
+Preauth No: PA20250267441
+Claim Type: Cashless
+Bill Breakup - Itemised Charges
+#
+Description
+Qty / Days
+Rate
+Amount
+1
+Room Charges
+4 Days
+Rs. 2,000/-
+Rs. 8,000/-
+2
+Surgeon / Consultant Fees
+1
+Rs. 12,000/-
+Rs. 12,000/-
+3
+Operation Theatre Charges
+1
+Rs. 8,000/-
+Rs. 8,000/-
+4
+Nursing Care Charges
+4 Days
+Rs. 1,400/-
+Rs. 5,600/-
+5
+Pharmacy / Medicines
+As per bills
+-
+Rs. 14,000/-
+6
+Lab Investigations
+As per reports
+-
+Rs. 9,500/-
+7
+Radiology Charges
+As per reports
+-
+Rs. 6,500/-
+Gross Bill Amount
+Rs. 68,000/-
+Less: Non-Admissible Expenses
+(Rs. 1,700/-)
+Net Admissible Amount
+Rs. 66,300/-
+Co-pay (Patient Liability)
+Rs. 5,800/-
+Amount Payable by Insurer
+Rs. 58,000/-
+This is a computer generated bill. For queries contact billing department.
+
+================================================================================
+DOCUMENT: 04_Lab_Report_CLM2024005341
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001 | Tel: 080-4455-6677 | www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284 | NABH Accredited | ISO 9001:2015 Certified
+24x7 Emergency: 080-4455-9999 | info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1 | Ref: CLM2024005341
+This document is computer generated and is valid without signature unless stated otherwise.
+LABORATORY INVESTIGATION REPORT
+Patient: Lakshmi Venkataraman
+Age/Sex: 67Y / F
+IP No: IP/2025/5341
+Date: 18-Apr-2025
+Investigations - Nephrology Workup
+Test
+Result
+Reference Range
+Units
+Status
+Haemoglobin
+11.8
+12.0-16.0
+g/dL
+LOW
+Total WBC Count
+12,400
+4,000-11,000
+/cmm
+HIGH
+Platelet Count
+2,45,000
+1,50,000-4,00,000
+/cmm
+Normal
+Random Blood Sugar
+168
+70-140
+mg/dL
+HIGH
+Serum Creatinine
+1.2
+0.6-1.2
+mg/dL
+Normal
+Blood Urea Nitrogen
+22
+8-25
+mg/dL
+Normal
+Serum Sodium
+138
+136-145
+mEq/L
+Normal
+Serum Potassium
+4.2
+3.5-5.0
+mEq/L
+Normal
+Total Bilirubin
+0.8
+0.2-1.2
+mg/dL
+Normal
+SGOT (AST)
+42
+10-40
+U/L
+HIGH
+SGPT (ALT)
+38
+7-40
+U/L
+Normal
+HbA1c
+7.8
+< 6.5
+%
+HIGH
+Serum Creatinine
+8.4
+0.6-1.2
+mg/dL
+HIGH
+BUN
+98
+8-25
+mg/dL
+HIGH
+eGFR
+6
+> 90
+mL/min
+LOW
+Serum Potassium
+5.8
+3.5-5.0
+mEq/L
+HIGH
+Interpretation:
+Severely deranged renal parameters consistent with ESRD Stage 5. Hyperkalaemia requiring urgent dialysis.
+Anaemia of chronic kidney disease noted.
+Dr. Mohan Das MBBS, MD (Pathology) Reg:
+KMC/33201/2012 Laboratory Director
+Report Date: 18-Apr-2025 City Diagnostics Lab
+City Multi-Speciality Hospital NABL Accredited
+
+================================================================================
+DOCUMENT: 05_Doctors_Notes_CLM2024005341
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL - DOCTOR'S CASE NOTES
+Patient: Lakshmi Venkataraman | IP: IP/2025/5341 | Dept: Nephrology
+Case Notes - Lakshmi Venkataraman
+IP No: IP/2025/5341 Dept: Nephrology
+Admit: 18-Apr-2025 Discharge: 22-Apr-2025
+Admission:
+decreased urine output, generalised swelling, breathles
+Diagnosis: End Stage Renal Disease (ESRD) - Chronic Kidney Di
+ICD-10: N18.5
+Treatment:
+Procedure: Haemodialysis - 3 sessions + Arteriovenous Fistula Revi
+Patient tolerated procedure well
+Post-op vitals stable
+Progress:
+Day 2: Improving, tolerating orals
+Day 3: Mobilising with support
+Discharge (22-Apr-2025):
+Stable, vitals normal, wound healthy
+Medications prescribed
+Follow up 1 week
+Dr Harish Gowda
+MBBS, MD, DM (Nephrology)
+Date: 22-Apr-2025
+ORIGINAL
+CASE NOTES
+
+================================================================================
+DOCUMENT: 06_Pharmacy_Bill_CLM2024005341
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001 | Tel: 080-4455-6677 | www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284 | NABH Accredited | ISO 9001:2015 Certified
+24x7 Emergency: 080-4455-9999 | info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1 | Ref: CLM2024005341
+This document is computer generated and is valid without signature unless stated otherwise.
+PHARMACY BILL / DRUG DISPENSING RECORD
+Patient: Lakshmi Venkataraman
+IP No: IP/2025/5341
+Ward: Nephrology Ward
+Medicines and Consumables Dispensed
+Drug / Item
+Dosage
+Qty
+Rate (Rs.)
+Amount (Rs.)
+Inj. Ceftriaxone 1g
+IV BD
+6
+85
+510
+Inj. Metronidazole 500mg
+IV TID
+9
+45
+405
+Inj. Pantoprazole 40mg
+IV OD
+5
+45
+225
+Inj. Tramadol 100mg
+IV prn
+4
+42
+168
+IV Fluids NS/RL
+IV drip
+8
+65
+520
+Wound dressings
+Daily
+4 sets
+350
+1400
+Disposables
+-
+1 set
+650
+650
+Tab medications (discharge)
+Various
+-
+-
+1200
+Miscellaneous
+Various
+-
+-
+600
+Total Pharmacy Amount:
+Rs. 5,678/-
+Note: All prescription drugs dispensed against doctor's written orders. Non-admissible items (toiletries, supplements) billed
+separately to patient.
+
+================================================================================
+DOCUMENT: 07_Preauth_Letter_CLM2024005341
+================================================================================
+1 ---
+MDINDIA HEALTH INSURANCE TPA PVT. LTD.
+IRDAI Registration No. TPA/2001/0015 | Claims Processing Division
+4th Floor, Prestige Towers, MG Road, Bangalore - 560001 | claims@tpa.in | 1800-123-4567
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1 | Ref: CLM2024005341
+This document is computer generated and is valid without signature unless stated otherwise.
+APPROVED
+PA20250267441
+PRE-AUTHORISATION APPROVAL LETTER
+Ref: PA20250267441 | Date: 18-Apr-2025
+To,
+The Medical Superintendent,
+City Multi-Speciality Hospital, Bangalore.
+Dear Sir/Madam, This letter is to confirm that pre-authorisation has been APPROVED for the cashless treatment of the
+above-mentioned patient.
+Authorisation Details
+Patient Name:
+Lakshmi Venkataraman
+Policy Number:
+NIA/MED/2023/00781234
+Pre-auth Reference:
+PA20250267441
+Diagnosis:
+End Stage Renal Disease (ESRD) - Chronic Kidney Disease Stage 5
+Approved Procedure:
+Haemodialysis - 3 sessions + Arteriovenous Fistula Revision
+Approved Amount:
+Rs. 60,900/-
+Valid From:
+18-Apr-2025
+Valid Till:
+22-Apr-2025
+Claim Type:
+Cashless
+Conditions: This approval is subject to policy terms. Final settlement will be based on actual bills, documents submitted, and policy
+eligibility. Room rent beyond policy limit will be borne by patient.
+
+================================================================================
+DOCUMENT: 08_TPA_Response_CLM2024005341
+================================================================================
+1 ---
+MDINDIA HEALTH INSURANCE TPA PVT. LTD.
+IRDAI Registration No. TPA/2001/0015 | Claims Processing Division
+4th Floor, Prestige Towers, MG Road, Bangalore - 560001 | claims@tpa.in | 1800-123-4567
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1 | Ref: CLM2024005341
+This document is computer generated and is valid without signature unless stated otherwise.
+SETTLED
+10-May-2025
+CLAIM SETTLEMENT ADVICE
+Ref No: SETTLE/CLM2024005341/10May2025
+Date: 10-May-2025
+Dear Lakshmi Venkataraman, We are pleased to inform you that your health insurance claim has been processed and
+SETTLED. Details of settlement are as under:
+Settlement Details
+Claim Number:
+CLM2024005341
+Policy Number:
+NIA/MED/2023/00781234
+Hospital:
+City Multi-Speciality Hospital
+Admission Date:
+18-Apr-2025
+Discharge Date:
+22-Apr-2025
+Diagnosis:
+End Stage Renal Disease (ESRD) - Chronic Kidney Disease Stage 5
+Total Billed Amount:
+Rs. 68,000/-
+Non-Admissible Deductions:
+Rs. 1,700/-
+Approved Amount:
+Rs. 58,000/-
+TDS Deducted @ 2%:
+Rs. 1,160/-
+Net Amount Payable to Hospital:
+Rs. 56,840/-
+Payment Mode:
+NEFT
+UTR Number:
+UTR334521887634
+Payment Date:
+10-May-2025
+This settlement is in full and final settlement of the above claim. For any queries please contact our helpline: 1800-123-4567

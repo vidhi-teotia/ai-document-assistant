@@ -1,0 +1,582 @@
+CLAIM ID: CLM2024003418
+
+================================================================================
+DOCUMENT: 01_Claim_Form_CLM2024003418
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 2  |  Ref: CLM2024003418
+This document is computer generated and is valid without signature unless stated otherwise.
+HEALTH INSURANCE CLAIM FORM — NIVA BUPA HEALTH
+INSURANCE CO. LTD.
+PART A — To be filled by the Insured / Patient
+Section 1: Policy Details
+Policy Number:
+NB/2022/FLT/00934512
+Name of Insured:
+Divya Krishnamurthy
+Insurance Company:
+Niva Bupa Health Insurance Co. Ltd.
+TPA Name:
+Niva Bupa (In-house TPA)
+Sum Insured:
+Rs. 10,00,000
+Product / Plan:
+ReAssure 2.0 — Family Floater
+Section 2: Patient Details
+Patient Name:
+Divya Krishnamurthy
+Date of Birth:
+14-Jun-1995
+Age:
+29 Years
+Gender:
+Female
+ABHA ID:
+92-3317-5542-8821
+Mobile Number:
++91 96321 44780
+Address:
+7, Koramangala 5th Block, Bangalore - 560095
+Relationship to Insured:
+Self
+Section 3: Hospitalisation Details
+Hospital Name:
+City Multi-Speciality Hospital
+Hospital Address:
+123, MG Road, Bangalore - 560001
+ROHINI ID:
+MH-KA-BLR-00284
+Date of Admission:
+10-Mar-2025
+Date of Discharge:
+14-Mar-2025
+Diagnosis:
+Previous LSCS with Placenta Praevia Type III
+ICD-10 Code:
+O34.2
+Claim Type:
+Cashless
+Total Amount Claimed:
+Rs. 78,500/-
+Declaration by Insured:
+I hereby declare that the information furnished above is true and correct to the best of my knowledge and belief. I
+authorise the hospital and doctors to release all medical information to the Insurance Company / TPA for the purpose
+of processing this claim. I am aware that any misrepresentation or suppression of facts may render my claim liable for
+rejection.
+Signature of Insured: ________________
+Date: 16-Mar-2025
+Place: Bangalore
+
+
+ 2 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 2 of 2  |  Ref: CLM2024003418
+This document is computer generated and is valid without signature unless stated otherwise.
+PART B — To be filled by the Hospital / Treating Doctor
+Section 4: Medical Certificate
+Treating Doctor:
+Dr. Kavitha Reddy
+Qualification:
+MBBS, MD, DGO (Obs & Gynae)
+MCI Reg. No.:
+KMC/52108/2020
+Final Diagnosis:
+Previous LSCS with Placenta Praevia Type III
+ICD-10 Code:
+O34.2
+Procedure Performed:
+Lower Segment Caesarean Section (LSCS) with Bilateral Tubal Ligation
+Whether surgically treated:
+Yes
+Date of Surgery:
+10-Mar-2025
+Pre-existing Disease:
+None
+Accident / Injury:
+No
+Hospital Declaration:
+Certified that the above patient was admitted and treated in our hospital. The information furnished is true and correct.
+All documents submitted are genuine.
+Signature of Treating Doctor Dr. Kavitha Reddy
+MBBS, MD, DGO (Obs & Gynae)
+Signature with Hospital Seal City
+Multi-Speciality Hospital ROHINI:
+MH-KA-BLR-00284
+Date: 14-Mar-2025
+
+================================================================================
+DOCUMENT: 02_Discharge_Summary_CLM2024003418
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 2  |  Ref: CLM2024003418
+This document is computer generated and is valid without signature unless stated otherwise.
+DISCHARGE SUMMARY
+Patient Information
+Patient Name
+Divya Krishnamurthy
+Age / Gender
+29 Yrs / Female
+Date of Birth
+14-Jun-1995
+ABHA ID
+92-3317-5542-8821
+Address
+7, Koramangala 5th Block,
+Bangalore - 560095
+Mobile
++91 96321 44780
+IP Number
+IP/2025/3418
+Ward / Bed
+Maternity Ward — Private / Bed No.
+269
+Admission & Discharge Details
+Date of Admission
+10-Mar-2025
+Time of Admission
+17:45
+Date of Discharge
+14-Mar-2025
+Time of Discharge
+13:00
+Length of Stay
+4 Days
+Admission Type
+Planned
+Department
+Gynaecology
+Treating Doctor
+Dr. Kavitha Reddy
+Qualification
+MBBS, MD, DGO (Obs &
+Gynae)
+Reg. No.
+KMC/52108/2020
+Clinical Details
+Chief Complaint:
+Patient presented with labour pains and previous LSCS with placenta praevia
+confirmed on USG
+Final Diagnosis:
+Previous LSCS with Placenta Praevia Type III (ICD-10: O34.2)
+Procedure Performed:
+Lower Segment Caesarean Section (LSCS) with Bilateral Tubal Ligation
+Anaesthesia Given by:
+Dr. Nalini Shetty, MBBS, MD (Anaesthesia)
+History of Present Illness:
+Divya Krishnamurthy, a 29-year-old primigravida at 38 weeks gestation, with previous LSCS, presented with uterine
+contractions. Antenatal USG showed placenta praevia Type III. Decision for elective LSCS taken by obstetrics team.
+Investigations at Admission:
+USG Obstetric: Single live foetus, 38 weeks, placenta praevia type III. CTG: Reactive. Blood group: B+. Coagulation:
+Normal. HbA1c: 5.2%.
+Treatment Given:
+Under spinal anaesthesia, LSCS performed via Pfannenstiel incision. Live male baby delivered, birth weight 3.1 kg,
+APGAR 9/10. BTL performed. Oxytocin infusion given. Uterus closed in 2 layers.
+Condition at Discharge:
+Patient discharged in stable condition. Vitals stable. Wound healthy. Advised rest and follow-up.
+Discharge Medications:
+Tab Amoxicillin-Clavulanate 625mg TID × 5 days, Tab Diclofenac 50mg TID × 3 days, Cap Iron+Folic Acid OD, Syr
+Vitamin C BD × 15 days, Tab Pantoprazole 40mg BD.
+Follow-up Instructions:
+
+
+ 2 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 2 of 2  |  Ref: CLM2024003418
+This document is computer generated and is valid without signature unless stated otherwise.
+Review after 7 days in OPD. Suture removal after 10 days. Avoid strenuous activity for 6 weeks. Contact emergency if
+fever, pain, or wound discharge. Next OPD: 21-Mar-2025.
+Dr. Kavitha Reddy
+Dr. Ramesh Bhat
+Dr. S. Krishnamurthy
+MBBS, MD, DGO (Obs & Gynae)
+MBBS, MD (Medicine)
+MBBS, MD — Medical Superintendent
+Treating Consultant
+Registrar
+City Multi-Speciality Hospital
+Date: 14-Mar-2025
+Date: 14-Mar-2025
+NABH Accredited
+
+================================================================================
+DOCUMENT: 03_Hospital_Bill_CLM2024003418
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024003418
+This document is computer generated and is valid without signature unless stated otherwise.
+FINAL HOSPITAL BILL / TAX INVOICE
+Bill No: BILL/2025/003418
+Bill Date: 14-Mar-2025
+Claim No: CLM2024003418
+Patient Details
+Name: Divya Krishnamurthy
+Age/Gender: 29 Yrs / Female
+IP No: IP/2025/3418
+Dept: Gynaecology
+Admit: 10-Mar-2025 Discharge: 14-Mar-2025
+Insurance Details
+Insurer: Niva Bupa Health Insurance Co. Ltd.
+Policy No: NB/2022/FLT/00934512
+TPA: Niva Bupa (In-house TPA)
+Preauth No: PA20250134892
+Claim Type: Cashless
+Bill Breakup — Itemised Charges
+#
+Description
+Qty / Days
+Rate
+Amount
+1
+Room Charges
+4 Days
+Rs. 3,500/-
+Rs. 14,000/-
+2
+Surgeon / Consultant Fees
+1
+Rs. 20,000/-
+Rs. 20,000/-
+3
+Anaesthesia Charges
+1
+Rs. 6,000/-
+Rs. 6,000/-
+4
+Operation Theatre Charges
+1
+Rs. 15,000/-
+Rs. 15,000/-
+5
+Nursing Care Charges
+4 Days
+Rs. 1,625/-
+Rs. 6,500/-
+6
+Pharmacy / Medicines
+As per bills
+—
+Rs. 12,500/-
+7
+Lab Investigations
+As per reports
+—
+Rs. 8,000/-
+8
+Radiology Charges
+As per reports
+—
+Rs. 5,500/-
+Gross Bill Amount
+Rs. 78,500/-
+Less: Non-Admissible Expenses
+(Rs. 1,962/-)
+Net Admissible Amount
+Rs. 76,538/-
+Co-pay (Patient Liability)
+—
+Amount Payable by Insurer
+—
+This is a computer generated bill. For queries contact billing department.
+
+================================================================================
+DOCUMENT: 04_Lab_Report_CLM2024003418
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024003418
+This document is computer generated and is valid without signature unless stated otherwise.
+LABORATORY INVESTIGATION REPORT
+Patient: Divya Krishnamurthy
+Age/Sex: 29Y / F
+IP No: IP/2025/3418
+Date: 10-Mar-2025
+Investigations — Gynaecology Workup
+Test
+Result
+Reference Range
+Units
+Status
+Haemoglobin
+11.8
+12.0-16.0
+g/dL
+LOW
+Total WBC Count
+12,400
+4,000-11,000
+/cmm
+HIGH
+Platelet Count
+2,45,000
+1,50,000-4,00,000
+/cmm
+Normal
+Random Blood Sugar
+168
+70-140
+mg/dL
+HIGH
+Serum Creatinine
+1.2
+0.6-1.2
+mg/dL
+Normal
+Blood Urea Nitrogen
+22
+8-25
+mg/dL
+Normal
+Serum Sodium
+138
+136-145
+mEq/L
+Normal
+Serum Potassium
+4.2
+3.5-5.0
+mEq/L
+Normal
+Total Bilirubin
+0.8
+0.2-1.2
+mg/dL
+Normal
+SGOT (AST)
+42
+10-40
+U/L
+HIGH
+SGPT (ALT)
+38
+7-40
+U/L
+Normal
+HbA1c
+7.8
+< 6.5
+%
+HIGH
+Interpretation:
+Investigations within normal limits. Fit for surgery. Blood group typed and cross-matched. Consent obtained.
+Dr. Mohan Das MBBS, MD (Pathology) Reg:
+KMC/33201/2012 Laboratory Director
+Report Date: 10-Mar-2025 City Diagnostics Lab
+City Multi-Speciality Hospital NABL Accredited
+
+================================================================================
+DOCUMENT: 05_Doctors_Notes_CLM2024003418
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL — DOCTOR'S CASE NOTES
+Patient: Divya Krishnamurthy  |  IP: IP/2025/3418  |  Dept: Gynaecology
+Case Notes — Divya Krishnamurthy
+  IP No: IP/2025/3418   Dept: Gynaecology
+  Admit: 10-Mar-2025   Discharge: 14-Mar-2025
+Admission:
+  labour pains and previous LSCS with placenta praevia co
+  Diagnosis: Previous LSCS with Placenta Praevia Type III
+  ICD-10: O34.2
+Treatment:
+  Procedure: Lower Segment Caesarean Section (LSCS) with Bilateral T
+  Patient tolerated procedure well
+  Post-op vitals stable
+Progress:
+  Day 2: Improving, tolerating orals
+  Day 3: Mobilising with support
+Discharge (14-Mar-2025):
+  Stable, vitals normal, wound healthy
+  Medications prescribed
+  Follow up 1 week
+Dr Kavitha Reddy
+MBBS, MD, DGO (Obs & Gynae)
+Date: 14-Mar-2025
+ORIGINAL
+CASE NOTES
+
+================================================================================
+DOCUMENT: 06_Pharmacy_Bill_CLM2024003418
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+123, MG Road, Bangalore - 560001  |  Tel: 080-4455-6677  |  www.cityhosp.in
+ROHINI ID: MH-KA-BLR-00284  |  NABH Accredited  |  ISO 9001:2015 Certified
+24×7 Emergency: 080-4455-9999  |  info@cityhosp.in
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024003418
+This document is computer generated and is valid without signature unless stated otherwise.
+PHARMACY BILL / DRUG DISPENSING RECORD
+Patient: Divya Krishnamurthy
+IP No: IP/2025/3418
+Ward: Maternity Ward — Private
+Medicines and Consumables Dispensed
+Drug / Item
+Dosage
+Qty
+Rate (Rs.)
+Amount (Rs.)
+Inj. Ceftriaxone 1g
+IV BD
+6
+85
+510
+Inj. Metronidazole 500mg
+IV TID
+9
+45
+405
+Inj. Pantoprazole 40mg
+IV OD
+5
+45
+225
+Inj. Tramadol 100mg
+IV prn
+4
+42
+168
+IV Fluids NS/RL
+IV drip
+8
+65
+520
+Wound dressings
+Daily
+4 sets
+350
+1400
+Disposables
+—
+1 set
+650
+650
+Tab medications (discharge)
+Various
+—
+—
+1200
+Miscellaneous
+Various
+—
+—
+600
+Total Pharmacy Amount:
+Rs. 5,678/-
+Note: All prescription drugs dispensed against doctor's written orders. Non-admissible items (toiletries, supplements) billed
+separately to patient.
+
+================================================================================
+DOCUMENT: 07_Preauth_Letter_CLM2024003418
+================================================================================
+1 ---
+NIVA BUPA (IN-HOUSE TPA)
+IRDAI Registration No. TPA/2001/0015  |  Claims Processing Division
+4th Floor, Prestige Towers, MG Road, Bangalore - 560001  |  claims@tpa.in  |  1800-123-4567
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024003418
+This document is computer generated and is valid without signature unless stated otherwise.
+APPROVED
+PA20250134892
+PRE-AUTHORISATION APPROVAL LETTER
+Ref: PA20250134892 | Date: 10-Mar-2025
+To,
+The Medical Superintendent,
+City Multi-Speciality Hospital, Bangalore.
+Dear Sir/Madam, This letter is to confirm that pre-authorisation has been APPROVED for the cashless treatment of the
+above-mentioned patient.
+Authorisation Details
+Patient Name:
+Divya Krishnamurthy
+Policy Number:
+NB/2022/FLT/00934512
+Pre-auth Reference:
+PA20250134892
+Diagnosis:
+Previous LSCS with Placenta Praevia Type III
+Approved Procedure:
+Lower Segment Caesarean Section (LSCS) with Bilateral Tubal Ligation
+Approved Amount:
+—
+Valid From:
+10-Mar-2025
+Valid Till:
+14-Mar-2025
+Claim Type:
+Cashless
+Conditions: This approval is subject to policy terms. Final settlement will be based on actual bills, documents submitted, and policy
+eligibility. Room rent beyond policy limit will be borne by patient.
+
+================================================================================
+DOCUMENT: 08_TPA_Response_CLM2024003418
+================================================================================
+1 ---
+NIVA BUPA (IN-HOUSE TPA)
+IRDAI Registration No. TPA/2001/0015  |  Claims Processing Division
+4th Floor, Prestige Towers, MG Road, Bangalore - 560001  |  claims@tpa.in  |  1800-123-4567
+City Multi-Speciality Hospital | 123, MG Road, Bangalore - 560001 | ROHINI: MH-KA-BLR-00284
+Page 1 of 1  |  Ref: CLM2024003418
+This document is computer generated and is valid without signature unless stated otherwise.
+QUERY
+PENDING
+DEFICIENCY / QUERY NOTICE
+Ref No: QUERY/CLM2024003418/16Mar2025
+Date: 16-Mar-2025
+Dear Divya Krishnamurthy, Your claim is currently under scrutiny. We require additional documents / information to
+process the same. Kindly submit the following within 15 days from the date of this notice:
+DOCUMENTS / INFORMATION
+REQUIRED
+1. Maternity benefit waiting period compliance certificate not submitted. 2.
+Previous LSCS records from first delivery not attached. 3. Anaesthesia record not
+in standard IRDAI format. Kindly submit above documents within 15 days.
+Failure to submit within 15 days may result in rejection of the claim. Submit documents to: claims@tpa.in or physically at our
+Bangalore office.
+
+================================================================================
+DOCUMENT: 09_OT_Notes_CLM2024003418
+================================================================================
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL
+OPERATION THEATRE RECORD / ANAESTHESIA NOTES
+CONFIDENTIAL MEDICAL RECORD
+OT RECORD — Divya Krishnamurthy
+  Date: 10-Mar-2025   Surgeon: Dr Kavitha Reddy
+  Procedure: Lower Segment Caesarean Section (LSCS) with Bilateral T
+  Anaesthesia: General / Spinal
+  Patient prepped and draped in sterile fashion
+  Procedure performed as planned
+  Intra-op findings documented
+  Haemostasis achieved
+  Wound closed in layers
+  EBL: Minimal
+  Patient shifted to recovery in stable condition
+Surgeon: Dr. Kavitha Reddy
+Anaesthetist: Dr. Nalini Shetty
+Date: 10-Mar-2025    OT No: OT-4
+OT VERIFIED
+10-Mar-2025

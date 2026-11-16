@@ -1,0 +1,35 @@
+1 ---
+CITY MULTI-SPECIALITY HOSPITAL — DOCTOR'S CASE NOTES
+Patient: Rajesh Kumar Sharma  |  IP: IP/2025/1847  |  Dept: Cardiology
+Case Notes — Rajesh Kumar Sharma  IP: IP/2025/1847
+Date: 08-Jan-2025    Time: 14:35    Dept: CCU
+Day 1 — Admission Note:
+  Pt 58M/F, c/o acute chest pain 4 hrs
+  H/o HTN, DM Type 2 on oral meds
+  P: 110/min, BP: 90/60 mmHg, SpO2: 92% RA
+  ECG: ST elevation V1-V4 — STEMI
+  Trop I: 12.4 ng/mL (significantly elevated)
+  Impression: Acute STEMI — anterior wall
+  Plan: Emergency cath lab — PTCA planned
+  Loaded Aspirin 300mg + Clopidogrel 600mg
+  IV Heparin started, O2 @ 4L/min
+Cath Lab Note:
+  Coronary Angiography: LAD 95% stenosis
+  LCX: 40% non-significant
+  RCA: Normal
+  PTCA done to LAD — DES 3.0x28mm deployed
+  Good angiographic result, TIMI 3 flow
+  Haemostasis: Radial artery — manual compression
+Day 3 — Progress Note:
+  Pt stable, chest pain resolved
+  BP: 110/70, HR: 72/min, SpO2: 98% RA
+  Echo post-PTCA: EF improved to 42%
+  Shifted from CCU to private room
+Day 5 — Discharge Note (13-Jan-2025):
+  Haemodynamically stable, ambulatory
+  Wound: Radial site healing well
+Dr Suresh Reddy
+MBBS, MD, DM (Cardiology)
+Date: 13-Jan-2025
+ORIGINAL
+CASE NOTES
