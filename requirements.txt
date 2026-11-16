@@ -1,0 +1,22 @@
+# Core
+python-dotenv
+pandas
+pydantic
+
+#PDF Processing
+PyMuPDF
+pdfplumber
+
+#RAG and LLM pipeline
+langchain
+langchain-ollama
+langchain-openai
+chromadb
+
+#Api Layer
+fastapi
+uvicorn
+
+#Notebooks
+jupyter
+
