@@ -1,6 +1,6 @@
 import React, { useEffect, useMemo, useState } from "react";
 import "./style.css";
-const DEFAULT_API_BASE_URL = "http://127.0.0.1:8000";
+const DEFAULT_API_BASE_URL = "https://ai-document-assistant-api-ru86.onrender.com";
 
 const ragExamples = [
   "What diagnosis is mentioned in the claim documents?",
