@@ -21,7 +21,7 @@ const agentExamples = [
 
 // Read the saved API URL so students do not need to type it every time.
 function getInitialApiBaseUrl() {
-  return localStorage.getItem("docIntelApiBaseUrl") || DEFAULT_API_BASE_URL;
+  return DEFAULT_API_BASE_URL;
 }
 
 // Convert API values into readable table text.
