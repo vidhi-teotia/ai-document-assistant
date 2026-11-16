@@ -1,0 +1,17 @@
+
+services:
+  # FastAPI backend
+  - type: web
+    name: ai-document-assistant-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn src.api.app:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+
+  # React frontend
+  - type: web
+    name: ai-document-assistant-frontend
+    runtime: static
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: frontend/build
